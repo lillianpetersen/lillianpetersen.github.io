@@ -37,16 +37,11 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
-social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
-  links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+ # username: Lillian Petersen # jekyll-seo-tag > Owners twitter username
+#author: Lillian Petersen# jekyll-seo-tag > default author
+#social: # jekyll-seo-tag > social overrides
+ # name: Lillian Petersen # jekyll-seo-tag > real name
+ # links:  # jekyll-seo-tag > social aliases (sameAs)
 
 # 4. Jekyll settings
 sass:
@@ -54,15 +49,15 @@ sass:
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
-
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf
+    title: Posts # Needed for Siteleaf 
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
-      Welcome to the blog
+     Lillian Petersen blog
+ 
     feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 6. Jekyll collections settings
@@ -74,9 +69,10 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "Lillian Petersen" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
+description: "Lillian Petersen analyzes large data sets to answer socially relevant questions. Her research topics include the effects of climate change on crop yields, climate means and extremes in observational data, tracking deforestation, and weather correlations with El Nino. She pulls her data from historical weather observations, crop yields, climate model data, and satellite imagery, and conducts computations with python on the Google Cloud. 
+" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
@@ -87,14 +83,14 @@ avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # 
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
-  Blog: /blog/
+  Bio: /bio/
+  CV: /CV/
+  America's Farming Future: /americas_ff/
+  Detecting Climate Change: /detecting_cc/
   Categories: /categories/
   Search: /search/
   Fork Alembic: https://github.com/daviddarnes/alembic
 
-navigation_footer:
-  Created by David Darnes: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
