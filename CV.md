@@ -1,5 +1,6 @@
 ---
 feature_image: "https://unsplash.it/1044/400?image=1061"
+layout: page_no_footer
 excerpt: "CV"
 ---
 ## Cirriculum Vitae
