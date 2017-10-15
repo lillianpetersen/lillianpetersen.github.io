@@ -85,11 +85,9 @@ navigation_header:
   Home: /
   Bio: /bio/
   CV: /CV/
-  America's Farming Future: /americas_ff/
-  Detecting Climate Change: /detecting_cc/
-  Categories: /categories/
-  Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
+  Crops: /americas_ff/
+  Climate Extremes: /detecting_cc/
+  El Nino: /el_nino/
 
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
