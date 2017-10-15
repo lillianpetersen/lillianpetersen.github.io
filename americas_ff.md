@@ -10,8 +10,8 @@ Crop yields are strongly dependent on average summertime temperatures and extrem
 
 ## Video
 
-<a href="https://www.youtube.com/watch?v=mOaMySxYeNE&"
- target="_blank"><img src="/pic/detecting_cc_video.png"
+<a href="https://www.youtube.com/watch?v=D_Q_Dd_VLLI"
+ target="_blank"><img src="/pic/americas_ff_video.png"
 alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
 
 ### Write-up

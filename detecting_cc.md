@@ -17,10 +17,13 @@ This study investigates how the climate is changing at individual weather statio
  target="_blank"><img src="/pic/detecting_cc_video.png" 
 alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
 
-#### Technical Write-up(link)
+#### Write-up
 
-<object data="/pdf/PetersenLillian2016nmas.pdf" tyse="application/pdf" width="100%" height="80%">
-<iframe src="/pdf/PetersenLillian2016nmas.pdf" width="100%" height="80%" style="border: none;">
+
+<object data="/pdf/PetersenLillian2016nmas.pdf" tyse="application/pdf" width="100%" height="70%">
+<iframe src="/pdf/PetersenLillian2016nmas.pdf" width="100%" height="70%" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/PetersenLillian2016nmas.pdf">Download PDF</a>
 </iframe>
 </object>
+
+<br><br><br><br><br>
