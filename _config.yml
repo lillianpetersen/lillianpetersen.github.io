@@ -50,14 +50,6 @@ permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
-collections:
-  posts:
-    output: true
-    description: "My thoughts and ideas" # The post list page content
-    feature_text: |
-     Lillian Petersen blog
- 
-    feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 6. Jekyll collections settings
 defaults:

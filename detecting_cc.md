@@ -1,5 +1,4 @@
 ---
-feature_text: Detecting Climate Change through Means and Extremes 
 feature_image: "https://unsplash.it/1300/400?image=1061"
 excerpt: "Detecting Climate Change"
 ---
@@ -13,8 +12,10 @@ This study investigates how the climate is changing at individual weather statio
 #### [Interactive Map of Climate Change Data](https://maps.espatial.com/maps/_Climate-Change/pages/map.jsp?geoMapId=172214&TENANT_ID=157115)
  (pic)
 
-#### [Watch a Movie Describing my Project](https://www.youtube.com/watch?v=mOaMySxYeNE&feature=youtu.be)
- (pic)
+#### Video
+<a href="https://www.youtube.com/watch?v=mOaMySxYeNE&"
+ target="_blank"><img src="/pic/detecting_cc_video.png" 
+alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
 
 #### Technical Write-up(link)
 
