@@ -52,7 +52,6 @@ timezone: Europe/London # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: Posts # Needed for Siteleaf 
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: |

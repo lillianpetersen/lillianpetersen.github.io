@@ -17,3 +17,9 @@ This study investigates how the climate is changing at individual weather statio
  (pic)
 
 #### Technical Write-up(link)
+
+<object data="/pdf/PetersenLillian2016nmas.pdf" tyse="application/pdf" width="100%" height="80%">
+<iframe src="/pdf/PetersenLillian2016nmas.pdf" width="100%" height="80%" style="border: none;">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/PetersenLillian2016nmas.pdf">Download PDF</a>
+</iframe>
+</object>

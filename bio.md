@@ -1,10 +1,10 @@
 ---
-title: Biography 
 feature_text: |
   A little bit about me.
 feature_image: "https://unsplash.it/1300/400?image=1061"
 excerpt: "A little bit about me."
 ---
+## Biography
 
 Lillian Petersen analyzes large data sets to answer socially relevant questions. Her research topics include the effects of climate change on crop yields, climate means and extremes in observational data, tracking deforestation, and weather correlations with El Nino. She pulls her data from historical weather observations, crop yields, climate model data, and satellite imagery, and conducts computations with python on the Google Cloud. 
 
