@@ -1,7 +1,7 @@
 ---
 feature_text: |
- <span style="color:black">A little bit about me</span>
-feature_image: "/pic/sunrise.jpg"
+ <span style="color:white">A little bit about me</span>
+feature_image: "/pic/colorado.jpg"
 excerpt: "A little bit about me."
 ---
 ## Biography

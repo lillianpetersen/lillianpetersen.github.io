@@ -1,5 +1,5 @@
 ---
-feature_image: "/pic/peterfied_forest.jpg"
+feature_image: "/pic/montana.jpg"
 excerpt: "El Nino"
 ---
 ## Will it be a Good Ski Season? Correlation between El Nino and Snowfall 
