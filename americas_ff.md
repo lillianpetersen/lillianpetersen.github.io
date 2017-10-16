@@ -1,5 +1,5 @@
 ---
-feature_image: "https://unsplash.it/1300/400?image=695"
+feature_image: "/pic/storm.jpg"
 excerpt: "America's Farming Future"
 ---
 ## America's Farming Future&#58; The Impact of Climate Change on Crop Yields

@@ -1,7 +1,7 @@
 ---
 feature_text: |
-  A little bit about me.
-feature_image: "https://unsplash.it/1300/400?image=1061"
+ <span style="color:black">A little bit about me</span>
+feature_image: "/pic/sunrise.jpg"
 excerpt: "A little bit about me."
 ---
 ## Biography

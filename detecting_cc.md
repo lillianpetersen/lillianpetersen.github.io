@@ -1,5 +1,5 @@
 ---
-feature_image: "https://unsplash.it/1300/400?image=1061"
+feature_image: "/pic/view.jpg"
 excerpt: "Detecting Climate Change"
 ---
 
@@ -19,11 +19,9 @@ alt="Watch a video Describing my Project" width="720" height="540" border="10" /
 
 #### Write-up
 
-
-<object data="/pdf/PetersenLillian2016nmas.pdf" tyse="application/pdf" width="100%" height="70%">
-<iframe src="/pdf/PetersenLillian2016nmas.pdf" width="100%" height="70%" style="border: none;">
+<object data="/pdf/PetersenLillian2016nmas.pdf" tyse="application/pdf" width="100%" height="1100">
+<iframe src="/pdf/PetersenLillian2016nmas.pdf" width="100%" height="1100" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/PetersenLillian2016nmas.pdf">Download PDF</a>
 </iframe>
 </object>
 
-<br><br><br><br><br>
