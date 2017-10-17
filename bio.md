@@ -19,7 +19,7 @@ Lillian is a sophomore at Los Alamos High School in New Mexico. She has a passio
   </td>
   <td width="2%">
   </td>
-  <td width="38%" ><img src='/pic/isef.jpg' >
+  <td width="38%" ><img src="/pic/isef.jpg" >
   </td>
   </tr>
 </table>
