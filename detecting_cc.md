@@ -3,7 +3,6 @@ feature_image: "/pic/view.jpg"
 excerpt: "Detecting Climate Change"
 ---
 
-## Detecting Climate Change through Means and Extremes
 
 #### Interactive Map of Climate Change Data
  

@@ -2,7 +2,6 @@
 feature_image: "/pic/grand_canyon_top.jpg"
 excerpt: "America's Farming Future"
 ---
-## America's Farming Future&#58; The Impact of Climate Change on Crop Yields
 
 <a href="https://www.youtube.com/watch?v=D_Q_Dd_VLLI"
  target="_blank"><img src="/pic/americas_ff_video.png"

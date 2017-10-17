@@ -4,8 +4,6 @@ feature_text: |
 feature_image: "/pic/colorado.jpg"
 excerpt: "A little bit about me."
 ---
-## Biography
-
 <table cellpadding="10">
   <tr>
   <td colspan="3" >
