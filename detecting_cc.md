@@ -1,4 +1,5 @@
 ---
+title: "Detecting Climate Change through Means and Extremes"
 feature_image: "/pic/view.jpg"
 excerpt: "Detecting Climate Change"
 ---

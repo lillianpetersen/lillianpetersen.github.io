@@ -1,4 +1,5 @@
 ---
+title: "America's Farming Future\: The Impact of Climate Change on Crop Yields"
 feature_image: "/pic/grand_canyon_top.jpg"
 excerpt: "America's Farming Future"
 ---

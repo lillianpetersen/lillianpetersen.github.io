@@ -1,4 +1,5 @@
 ---
+title: "Will it be a Good Ski Season? Correlation between El Nino and Snowfall"
 feature_image: "/pic/montana.jpg"
 excerpt: "El Nino"
 ---
