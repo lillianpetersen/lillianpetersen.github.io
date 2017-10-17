@@ -1,5 +1,5 @@
 ---
-title: "Biography"
+title: Biography
 feature_text: |
  <span style="color:white">A little bit about me</span>
 feature_image: "/pic/colorado.jpg"
