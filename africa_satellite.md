@@ -6,7 +6,7 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 
 <a href="https://maps.esp.tl/maps/_Africa-NDVI-Anomalies/pages/map.jsp?geoMapId=458552&TENANT_ID=199953"
  target="_blank"><img src="/pic/AfricaNDVI2016.jpg" 
-alt="Check out my interactive map" width="320" height="440" border="10" /></a>
+alt="Check out my interactive map" width="520" height="440" border="10" /></a>
 
 ### Abstract
 
