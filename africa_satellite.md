@@ -1,6 +1,6 @@
 ---
 title: Predicting Food Shortages in Africa from Satellite Imagery
-feature_image: "/pic/mesas.jpg"
+feature_image: "/pic/peterfied_forest_trees.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
