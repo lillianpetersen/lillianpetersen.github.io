@@ -25,6 +25,3 @@ I am currently a student at Los Alamos High School, and have competed in science
   </td>
   </tr>
 </table>
-
-[![HitCount](http://hits.dwyl.io/lillianpetersen/lillianpetersen.github.io.svg)](http://hits.dwyl.io/lillianpetersen/lillianpetersen.github.io)
-
