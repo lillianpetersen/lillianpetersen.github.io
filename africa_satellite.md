@@ -4,12 +4,12 @@ feature_image: "/pic/peterfied_forest_trees.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
-## Real-Time Crop Predictions in Africa
+### Real-Time Crop Predictions in Africa
 <a href="https://maps.esp.tl/maps/_Crop-Predictions-March-2018/pages/map.jsp?geoMapId=458467&TENANT_ID=156108"
  target="_blank"><img src="/pic/Africa_predictions_map.png"
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
 
-## Yearly NDVI Anomalies in Africa
+### Yearly NDVI Anomalies in Africa
 <a href="https://maps.esp.tl/maps/_Africa-NDVI-Anomalies/pages/map.jsp?geoMapId=458552&TENANT_ID=199953"
  target="_blank"><img src="/pic/AfricaNDVI2016.jpg" 
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
