@@ -5,7 +5,7 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
 ### Real-Time Crop Predictions for Africa
-##### Not all countries are currently in their growing season
+###### Note: Not all countries are currently in their growing season
 <a href="https://maps.esp.tl/maps/_Crop-Predictions-March-2018/pages/map.jsp?geoMapId=458467&TENANT_ID=156108"
  target="_blank"><img src="/pic/Africa_predictions_map.png"
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
