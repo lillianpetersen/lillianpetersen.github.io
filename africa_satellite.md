@@ -4,6 +4,11 @@ feature_image: "/pic/peterfied_forest_trees.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
+### Watch a Movie of My Professional Talk
+<a href="https://maps.esp.tl/maps/https://www.youtube.com/watch?v=_uMGB55wFzA&t="
+ target="_blank"><img src="/pic/talk_picture.png"
+alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
+
 ### Real-Time Crop Predictions for Africa
 ###### Note: Not all countries are currently in their growing season
 <a href="https://maps.esp.tl/maps/_Crop-Predictions-March-2018/pages/map.jsp?geoMapId=458467&TENANT_ID=156108"
