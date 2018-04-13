@@ -4,7 +4,7 @@ feature_image: "/pic/peterfied_forest_trees.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
-### Watch a Movie of My Professional Talk
+### Watch a Movie of My Award-Winning Talk
 <a href="https://www.youtube.com/watch?v=_uMGB55wFzA&t="
  target="_blank"><img src="/pic/talk_picture.png"
 alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
