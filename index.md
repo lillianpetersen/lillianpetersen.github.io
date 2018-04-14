@@ -29,3 +29,14 @@ I am currently a student at Los Alamos High School, and have competed in science
 <p align="right">
 <a href="http://www.hitwebcounter.com">
 <img src="http://hitwebcounter.com/counter/counter.php?page=6931334&style=0006&nbdigits=5&type=ip&initCount=100" title="unique hits since April 2018" border="0" ></a></p>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117520873-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117520873-1');
+</script>
+
