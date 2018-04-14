@@ -26,3 +26,14 @@ Lillian is a sophomore at Los Alamos High School in New Mexico. She has a passio
 <p align="right">
 <a href="http://www.hitwebcounter.com">
 <img src="http://hitwebcounter.com/counter/counter.php?page=6931336&style=0006&nbdigits=5&type=ip&initCount=0" title="unique hits since April 2018" border="0" ></a>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117520873-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-117520873-2');
+</script>
+
