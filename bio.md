@@ -14,7 +14,7 @@ Lillian Petersen analyzes large data sets to answer socially relevant questions.
   <tr>
   <td width="60%">
 
-Lillian is a sophomore at Los Alamos High School in New Mexico. She has a passion for science, math, and computer programming, and dedicates her free time to research projects for science fair competitions. In 2018, she placed first in her category at the Intel International Science and Engineering Fair and the National Junior Science and Humanities Symposium. Lillian has a particular interest in evaluating the potential effects of climate change and their associated social and economic costs. She is currently interning at the International Institute for Applied Systems Analysis in Vienna, Austria, where she will work at the intersection of crop and risk modeling. Lillian’s hobbies include playing the violin, ultimate frisbee, and running in the beautiful mountains of New Mexico.
+Lillian is a Junior at Los Alamos High School in New Mexico. She has a passion for science, math, and computer programming, and dedicates her free time to research projects for science fair competitions. In 2018, she placed first in her category at the Intel International Science and Engineering Fair and the National Junior Science and Humanities Symposium. Lillian has a particular interest in evaluating the potential effects of climate change and their associated social and economic costs. She is currently interning at the International Institute for Applied Systems Analysis in Vienna, Austria, where she will work at the intersection of crop and risk modeling. Lillian’s hobbies include playing the violin, ultimate frisbee, and running in the beautiful mountains of New Mexico.
 
   </td>
   <td width="2%">
