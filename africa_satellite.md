@@ -27,8 +27,8 @@ Developing countries often have poor monitoring and reporting of weather and cro
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1436016.svg)](https://doi.org/10.5281/zenodo.1436016)
 
 
-<object data="/pdf/Africa_satellite.pdf" tyse="application/pdf" width="100%" height="1100">
-<iframe src="/pdf/Africa_satellite.pdf" width="100%" height="1100" style="border: none;">
+<object data="/pdf/LillianPetersenCropYieldPredictions.pdf" tyse="application/pdf" width="100%" height="1100">
+<iframe src="/pdf/LillianPetersenCropYieldPredictions.pdf" width="100%" height="1100" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/africa.pdf">Download PDF</a>
 </iframe>
 </object>
