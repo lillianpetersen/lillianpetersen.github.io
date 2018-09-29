@@ -4,7 +4,7 @@ feature_image: "/pic/peterfied_forest_trees.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
-#### Crop Yield Predictions for 2018 Harvests with respective errors
+#### Crop Yield Predictions and Errors for 2018 Harvests
 
 <object data="/pic/crop_predictions_actual_2018.pdf" tyse="application/pdf" width="65%" height="830">
 <iframe src="/pic/crop_predictions_actual_2018" width="65%" height="800" style="border: none;">
