@@ -11,7 +11,11 @@ alt="Watch a video Describing my Project" width="576" height="432" border="10" /
 
 #### Crop Yield Predictions for 2018 Harvests with respective errors
 
-<img src="/pic/crop_predictions_actual_2018.pdf" width="520" height="440">
+<object data="/pic/crop_predictions_actual_2018.pdf" tyse="application/pdf" width="100%" height="1100">
+<iframe src="/pic/crop_predictions_actual_2018" width="80%" height="900" style="border: none;">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pic/crop_predictions_actual_2018">Download PDF</a>
+</iframe>
+</object>
 
 ##### Link to interactive map
 <a href="https://maps.esp.tl/maps/_Yield-Predictions-Africa-2018-Harvests/pages/map.jsp?geoMapId=558903&TENANT_ID=156108"
