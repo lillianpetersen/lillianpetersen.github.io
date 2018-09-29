@@ -11,7 +11,7 @@ alt="Watch a video Describing my Project" width="576" height="432" border="10" /
 
 #### Crop Yield Predictions for 2018 Harvests with respective errors
 
-<td width="20%" ><img src="/pic/crop_predictions_actual_2018.pdf" >
+<img src="/pic/crop_predictions_actual_2018.pdf" width="520" height="440">
 
 ##### Link to interactive map
 <a href="https://maps.esp.tl/maps/_Yield-Predictions-Africa-2018-Harvests/pages/map.jsp?geoMapId=558903&TENANT_ID=156108"
