@@ -11,8 +11,8 @@ alt="Watch a video Describing my Project" width="576" height="432" border="10" /
 
 #### Crop Yield Predictions for 2018 Harvests with respective errors
 
-<object data="/pic/crop_predictions_actual_2018.pdf" tyse="application/pdf" width="60%" height="800">
-<iframe src="/pic/crop_predictions_actual_2018" width="70%" height="800" style="border: none;">
+<object data="/pic/crop_predictions_actual_2018.pdf" tyse="application/pdf" width="65%" height="800">
+<iframe src="/pic/crop_predictions_actual_2018" width="65%" height="800" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pic/crop_predictions_actual_2018">Download PDF</a>
 </iframe>
 </object>
