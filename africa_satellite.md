@@ -4,24 +4,24 @@ feature_image: "/pic/peterfied_forest_trees.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
-### Watch a Movie of My Award-Winning Talk
+## Watch a Movie of My Award-Winning Talk
 <a href="https://www.youtube.com/watch?v=_uMGB55wFzA&t="
  target="_blank"><img src="/pic/talk_picture.png"
-alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
+alt="Watch a video Describing my Project" width="576" height="432" border="10" /></a>
 
-### Crop Yield Predictions for 2018 Harvests with respective errors
+## Crop Yield Predictions for 2018 Harvests with respective errors
 <a href="https://maps.esp.tl/maps/_Yield-Predictions-Africa-2018-Harvests/pages/map.jsp?geoMapId=558903&TENANT_ID=156108"
  target="_blank"><img src="/pic/Africa_plot_april.png"
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
 
-### Yearly NDVI Anomalies in Africa
+## Yearly NDVI Anomalies in Africa
 <a href="https://maps.esp.tl/maps/_Africa-NDVI-Anomalies/pages/map.jsp?geoMapId=458552&TENANT_ID=199953"
  target="_blank"><img src="/pic/AfricaNDVI2016.jpg" 
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
 
 ### Abstract
 
-Developing countries often have poor monitoring and reporting of weather and crop health, leading to slow responses to droughts and food shortages. Here, new satellite data analysis tools were created to monitor crop health in Africa. The method was first tested in Illinois where there is reliable, high-resolution crop data. Measures of vegetation health were computed from 120-meter resolution MODIS satellite imagery since 2000. The author wrote 4000 lines of python code to process 12 terabytes of data. Correlations were computed between corn yields and monthly satellite index anomalies for every county and year, and a multivariate regression using every index and month (1600 values) produced a correlation of 0.86 with a p-value <1e-6. The high correlations in Illinois show that this model has good forecasting skill for crop yields. Next, the method was applied to three countries in Africa: Ethiopia, Tunisia, and Morocco for each country’s main crop. All three had high correlations with the maximum monthly satellite index during the rainy season, at 0.99, 0.97, and 0.73 respectively. The satellite analysis methods and software tools developed here can be used to predict crop production two to four months before the harvest, and many more months before official crop data is published. Satellite imagery was then processed for every African country, and a publicly viewable interactive map displaying real-time crop predictions was posted online. This method is unique because it can be applied to any location, crop, or climate, making it ideal for African countries with small fields and poor ground observations. The author is actively engaged with several international aid organizations that are interested in using this early warning system of impending food shortages.
+Developing countries often have poor monitoring and reporting of weather and crop health, leading to slow responses to droughts and food shortages. Here I develop satellite analysis methods and software tools to predict crop yields two to four months before the harvest. This method measures relative vegetation health based on pixel-level monthly anomalies of NDVI, EVI and NDWI. Because no crop mask, tuning, or subnational ground truth data is required, this method can be applied to any location, crop, or climate, making it ideal for African countries with small fields and poor ground observations. Testing began in Illinois where there is reliable county-level crop data. Correlations were computed between corn, soybean, and sorghum yields and monthly vegetation health anomalies for every county and year. A multivariate regression using every index and month (up to 1600 values) produced a correlation of 0.86 with corn, 0.74 for soybeans, and 0.65 for sorghum, all with p-values less than 10e-6. The high correlations in Illinois show that this model has good forecasting skill for crop yields. Next, the method was applied to every country in Africa for each country’s main crops. Crop production was then predicted for the 2018 harvest and compared to actual production values. Twenty percent of the predictions had less than 2% error, and 40% had less than 5% error.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1436016.svg)](https://doi.org/10.5281/zenodo.1436016)
 
