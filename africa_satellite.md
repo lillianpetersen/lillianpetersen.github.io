@@ -9,9 +9,8 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
  target="_blank"><img src="/pic/talk_picture.png"
 alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
 
-### Real-Time Crop Predictions for Africa
-###### Note: Not all countries are currently in their growing season
-<a href="https://maps.esp.tl/maps/_Crop-Predictions-March-2018/pages/map.jsp?geoMapId=458467&TENANT_ID=156108"
+### Crop Yield Predictions for 2018 Harvests with respective errors
+<a href="https://maps.esp.tl/maps/_Yield-Predictions-Africa-2018-Harvests/pages/map.jsp?geoMapId=558903&TENANT_ID=156108"
  target="_blank"><img src="/pic/Africa_plot_april.png"
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
 
