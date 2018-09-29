@@ -4,17 +4,21 @@ feature_image: "/pic/peterfied_forest_trees.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
-## Watch a Movie of My Award-Winning Talk
+#### Watch a Movie of My Award-Winning Talk
 <a href="https://www.youtube.com/watch?v=_uMGB55wFzA&t="
  target="_blank"><img src="/pic/talk_picture.png"
 alt="Watch a video Describing my Project" width="576" height="432" border="10" /></a>
 
-## Crop Yield Predictions for 2018 Harvests with respective errors
+#### Crop Yield Predictions for 2018 Harvests with respective errors
+
+<td width="20%" ><img src="/pic/crop_predictions_actual_2018.pdf" >
+
+##### Link to interactive map
 <a href="https://maps.esp.tl/maps/_Yield-Predictions-Africa-2018-Harvests/pages/map.jsp?geoMapId=558903&TENANT_ID=156108"
  target="_blank"><img src="/pic/Africa_plot_april.png"
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
 
-## Yearly NDVI Anomalies in Africa
+#### Yearly NDVI Anomalies in Africa
 <a href="https://maps.esp.tl/maps/_Africa-NDVI-Anomalies/pages/map.jsp?geoMapId=458552&TENANT_ID=199953"
  target="_blank"><img src="/pic/AfricaNDVI2016.jpg" 
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
