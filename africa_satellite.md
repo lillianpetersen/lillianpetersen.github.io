@@ -5,7 +5,7 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
 #### Crop Yield Predictions and Errors for 2018 Harvests
-<br>
+\vspace{1cm}
 
 <object data="/pic/crop_predictions_actual_2018.pdf" tyse="application/pdf" width="65%" height="830">
 <iframe src="/pic/crop_predictions_actual_2018" width="65%" height="800" style="border: none;">
