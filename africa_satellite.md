@@ -4,20 +4,20 @@ feature_image: "/pic/peterfied_forest_trees.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
-#### Watch a Movie of My Award-Winning Talk
-<a href="https://www.youtube.com/watch?v=_uMGB55wFzA&t="
- target="_blank"><img src="/pic/talk_picture.png"
-alt="Watch a video Describing my Project" width="576" height="432" border="10" /></a>
-
 #### Crop Yield Predictions for 2018 Harvests with respective errors
 
-<object data="/pic/crop_predictions_actual_2018.pdf" tyse="application/pdf" width="65%" height="800">
+<object data="/pic/crop_predictions_actual_2018.pdf" tyse="application/pdf" width="65%" height="830">
 <iframe src="/pic/crop_predictions_actual_2018" width="65%" height="800" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pic/crop_predictions_actual_2018">Download PDF</a>
 </iframe>
 </object>
 
-##### Link to interactive map
+#### Watch a Movie of My Award-Winning Talk
+<a href="https://www.youtube.com/watch?v=_uMGB55wFzA&t="
+ target="_blank"><img src="/pic/talk_picture.png"
+alt="Watch a video Describing my Project" width="576" height="432" border="10" /></a>
+
+##### Interactive Map of 2018 Harvests
 <a href="https://maps.esp.tl/maps/_Yield-Predictions-Africa-2018-Harvests/pages/map.jsp?geoMapId=558903&TENANT_ID=156108"
  target="_blank"><img src="/pic/Africa_plot_april.png"
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
