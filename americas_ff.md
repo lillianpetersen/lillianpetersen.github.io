@@ -14,10 +14,9 @@ Crop yields are strongly dependent on average summertime temperatures and extrem
 
 
 
-PetersenLillian_AmFarmFut_1Col_171017.pdf
-<object data="/pdf/PetersenLillian_AmFarmFut_1Col_171017.pdf" tyse="application/pdf" width="100%" height="1100">
-<iframe src="/pdf/PetersenLillian_AmFarmFut_1Col_171017.pdf" width="100%" height="1100" style="border: none;">
-This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/PetersenLillian_AmFarmFut_1Col_171017.pdf">Download PDF</a>
+<object data="/pdf/LillianPetersen_Crops_CNR_181106.pdf" tyse="application/pdf" width="100%" height="1100">
+<iframe src="/pdf/LillianPetersen_Crops_CNR_181106.pdf" width="100%" height="1100" style="border: none;">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/LillianPetersen_Crops_CNR_181106.pdf">Download PDF</a>
 </iframe>
 </object>
 
