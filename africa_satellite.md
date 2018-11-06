@@ -6,8 +6,10 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 
 #### Crop Yield Predictions and Errors for 2018 Harvests
 <p>
+Publication in Remote Sensing
+<a href="https://www.mdpi.com/2072-4292/10/11/1726">Petersen, L.K.    Real-Time Prediction of Crop Yields From MODIS Relative Vegetation Health: A Continent-Wide Analysis of Africa. Remote Sens. 2018, 10, 1726.</a>
 </p> 
-<object data="/pic/crop_predictions_actual_2018.pdf" tyse="application/pdf" width="65%" height="830">
+<object data="/pic/crop_predictions_actual_2018.pdf" type="application/pdf" width="65%" height="830">
 <iframe src="/pic/crop_predictions_actual_2018" width="65%" height="800" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pic/crop_predictions_actual_2018">Download PDF</a>
 </iframe>
@@ -35,9 +37,9 @@ Developing countries often have poor monitoring and reporting of weather and cro
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1436016.svg)](https://doi.org/10.5281/zenodo.1436016)
 
 
-<object data="/pdf/LillianPetersenCropYieldPredictions.pdf" tyse="application/pdf" width="100%" height="1100">
-<iframe src="/pdf/LillianPetersenCropYieldPredictions.pdf" width="100%" height="1100" style="border: none;">
-This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/africa.pdf">Download PDF</a>
+<object data="/pdf/Petersen-remotesensing-10-01726.pdf" type="application/pdf" width="100%" height="1100">
+<iframe src="/pdf/Petersen-remotesensing-10-01726.pdf" width="100%" height="1100" style="border: none;">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Petersen-remotesensing-10-01726.pdf">Download PDF</a>
 </iframe>
 </object>
 <p align="right">
