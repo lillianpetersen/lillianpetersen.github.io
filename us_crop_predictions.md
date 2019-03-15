@@ -10,13 +10,14 @@ excerpt: "US Crop Yields"
 <a href="https://www.mdpi.com/2225-1154/7/3/40">Petersen, L.K. Impact of Climate Change on Twenty-First Century Crop Yields in the US. Climate, 2019, 7, 40.</a>
 </p>
 
-<object data="/pdf/climate-published.pdf" tyse="application/pdf" width="120%" height="1100">
+<object data="/pdf/climate-published.pdf" tyse="application/pdf" width="100%" height="1100">
 <iframe src="/pdf/climate-published.pdf" width="120%" height="1100" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/climate-published.pdf">Download PDF</a>
 </iframe>
 </object>
 
 
+#### Watch a Video of My Project
 <a href="https://www.youtube.com/watch?v=D_Q_Dd_VLLI"
  target="_blank"><img src="/pic/americas_ff_video.png"
 alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
