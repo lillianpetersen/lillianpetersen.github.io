@@ -17,12 +17,13 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 </object>
 
 
-<p>
+
+
+
 #### Watch a Video of My Project
 <a href="https://www.youtube.com/watch?v=D_Q_Dd_VLLI"
  target="_blank"><img src="/pic/americas_ff_video.png"
 alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
-</p>
 
 <p align="right">
 <a href="http://www.hitwebcounter.com">
