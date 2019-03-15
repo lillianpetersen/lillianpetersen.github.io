@@ -77,8 +77,8 @@ navigation_header:
   Bio: /bio/
   CV: /CV/
   Africa: /africa_satellite/
-  Crops: /americas_ff/
-  Climate Extremes: /detecting_cc/
+  Crops: /us_crop_predictions/
+  Climate Extremes: /detecting_climate_change/
   El Nino: /el_nino/
 
 
