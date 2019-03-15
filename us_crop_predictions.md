@@ -1,7 +1,7 @@
 ---
-title: America's Farming Future&#58; The Impact of Climate Change on Crop Yields
+title: Impact of Climate Change on Twenty-First Century&#58; Crop Yields in the U.S.
 feature_image: "/pic/grand_canyon_top.jpg"
-excerpt: "America's Farming Future"
+excerpt: "US Crop Yields"
 ---
 
 #### Publication in Climate
@@ -10,8 +10,8 @@ excerpt: "America's Farming Future"
 <a href="https://www.mdpi.com/2225-1154/7/3/40">Petersen, L.K. Impact of Climate Change on Twenty-First Century Crop Yields in the US. Climate, 2019, 7, 40.</a>
 </p>
 
-<object data="/pdf/climate-published.pdf" tyse="application/pdf" width="100%" height="1100">
-<iframe src="/pdf/climate-published.pdf" width="100%" height="1100" style="border: none;">
+<object data="/pdf/climate-published.pdf" tyse="application/pdf" width="120%" height="1100">
+<iframe src="/pdf/climate-published.pdf" width="120%" height="1100" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/climate-published.pdf">Download PDF</a>
 </iframe>
 </object>
