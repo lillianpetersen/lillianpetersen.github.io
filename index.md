@@ -21,7 +21,7 @@ excerpt: "Lillian Petersen"
   </td>
   <td width="60%">
 Thanks for visiting my website!
-I am currently a student at Los Alamos High School and enjoy computer programming, science, and math. My goal is to apply my computer programming skills to issues involving poverty, climate, and disease. Over the past five years, my research has focused on climate change, food shortages, malnutrition, and cancer. To learn more about my research, check out my other pages.
+I am currently a student at Los Alamos High School and enjoy computer programming, science, and math. My goal is to apply my computer programming skills to issues involving poverty, climate, and disease in order to improve the conditions of those living in poverty and hardship. Over the past five years, my research has focused on climate change, food shortages, malnutrition, and cancer. To learn more about my research, check out my other pages.
   </td>
   </tr>
 </table>

@@ -8,13 +8,13 @@ excerpt: "Biography"
 <table cellpadding="10">
   <tr>
   <td colspan="3" >
-Lillian Petersen analyzes large data sets to answer socially relevant questions. Her research topics include real-time prediction of crops, the effects of climate change on crop yields, climate means and extremes in observational data, tracking deforestation, and weather correlations with El Nino. She pulls her data from historical weather observations, crop yields, climate model data, and satellite imagery, and conducts computations with python on the Google Cloud. 
+Lillian Petersen analyzes large data sets to answer socially relevant questions. Her research topics include real-time prediction of crop yields, the effects of climate change on crops, distibution of specialized nutritious foods to malnourished children in Africa, and understanding gene activation in Leukemia patients. She pulls her data from historical weather observations, crop yields, climate model data, and satellite imagery, and conducts computations with python on the Google Cloud. 
   </td>
   </tr>
   <tr>
   <td width="60%">
 
-Lillian is a Junior at Los Alamos High School in New Mexico. She has a passion for science, math, and computer programming, and dedicates her free time to research projects for science fair competitions. In 2018, she placed first in her category at the Intel International Science and Engineering Fair and the National Junior Science and Humanities Symposium. Lillian has a particular interest in evaluating the potential effects of climate change and their associated social and economic costs. She is currently interning at the International Institute for Applied Systems Analysis in Vienna, Austria, where she will work at the intersection of crop and risk modeling. Lillian’s hobbies include playing the violin, ultimate frisbee, and running in the beautiful mountains of New Mexico.
+Lillian is currently a Senior at Los Alamos High School in New Mexico. She has a passion for international development and dedicates her free time to research projects. In 2018, she placed first in her category at the Intel International Science and Engineering Fair and the National Junior Science and Humanities Symposium. She is currently interning at the Salk Institute for Biological Sciences in San Diego, California, where she is exploring how gene activation may lead to Leukemia.
 
   </td>
   <td width="2%">
