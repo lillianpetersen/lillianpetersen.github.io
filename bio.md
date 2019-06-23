@@ -19,7 +19,7 @@ Lillian is currently a Senior at Los Alamos High School in New Mexico. She has a
   </td>
   <td width="2%">
   </td>
-  <td width="38%" ><img src="/pic/isef.jpg" >
+  <td width="38%" ><img src="/pic/poster_ISEF_2018.jpg" >
   </td>
   </tr>
 </table>
