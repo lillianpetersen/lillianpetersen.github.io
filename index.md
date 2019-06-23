@@ -21,7 +21,7 @@ excerpt: "Lillian Petersen"
   </td>
   <td width="60%">
 Thanks for visiting my website!
-I am currently a student at Los Alamos High School, and have competed in science fairs and other competitions for the past four years. This year, I placed first at the Intel International Science and Engineering Fair and the Junior Science and Humanities Syposium. I love analyzing big datasets to answer big questions about climate, society, and their interactions. To see more about my projects, check out my other pages!
+I am currently a student at Los Alamos High School and enjoy computer programming, science, and math. My goal is to apply my computer programming skills to issues involving poverty, climate, and disease. Over the past five years, my research has focused on climate change, food shortages, malnutrition, and cancer. To learn more about my research, check out my other pages.
   </td>
   </tr>
 </table>
