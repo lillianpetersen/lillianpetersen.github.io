@@ -1,6 +1,6 @@
 ---
 title: Detecting Climate Change through Means and Extremes
-feature_image: "/pic/view.jpg"
+feature_image: "/pic/teton_panorama.jpg"
 excerpt: "Detecting Climate Change"
 ---
 
