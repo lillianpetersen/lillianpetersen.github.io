@@ -22,7 +22,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 #### Watch a Video of My Project
 <a href="https://www.youtube.com/watch?v=D_Q_Dd_VLLI"
- target="_blank"><img src="/pic/us_crop_predictions_video.jpg"
+ target="_blank"><img src="/pic/us_crop_prediction_video.jpg"
 alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
 
 <p align="right">
