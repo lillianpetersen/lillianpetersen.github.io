@@ -17,7 +17,7 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 #### My Talk on African Crop Prediction
 <a href="https://www.youtube.com/watch?v=_uMGB55wFzA&t="
- target="_blank"><img src="/pic/talk_picture.png"
+ target="_blank"><img src="/pic/talk_picture.jpg"
 alt="Watch a video Describing my Project" width="576" height="432" border="10" /></a>
 
 #### Crop Yield Predictions and Errors for 2018 Harvests
