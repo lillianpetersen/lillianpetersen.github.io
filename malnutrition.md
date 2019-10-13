@@ -17,5 +17,5 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 <p align="right">
 <a href="http://www.hitwebcounter.com">
-<img src="http://hitwebcounter.com" title="unique hits since April 2018" border="0" ></a>
+<img src="http://hitwebcounter.com/counter/counter.php?page=7148650&style=0006&nbdigits=5&type=ip&initCount=0" title="unique hits since October 2019" border="0" ></a>
 
