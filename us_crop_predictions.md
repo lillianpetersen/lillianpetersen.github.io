@@ -1,6 +1,6 @@
 ---
 title: Impact of Climate Change on Twenty-First Century Crop Yields in the U.S.
-feature_image: "/pic/grand_canyon_top.jpg"
+feature_image: "/pic/teton_panorama.jpg"
 excerpt: "US Crop Yields"
 ---
 
