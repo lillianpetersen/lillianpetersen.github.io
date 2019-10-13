@@ -13,7 +13,7 @@ alt="Check out my interactive map" width="720" height="540" border="10" /></a>
 
 
 <a href="https://www.youtube.com/watch?v=mOaMySxYeNE&"
- target="_blank"><img src="/pic/detecting_cc_video.png" 
+ target="_blank"><img src="/pic/climate_change_video.jpg" 
 alt="Watch a video Describing my Project" width="720" height="540" border="10" /></a>
 
 #### Abstract
