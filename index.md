@@ -8,11 +8,11 @@ excerpt: "Lillian Petersen"
 
 <table cellpadding="10">
   <tr>
-  <td width="30%" rowspan="2"><img src='/pic/senior_photo.jpg' width="2000">
+  <td width="40%" rowspan="2"><img src='/pic/senior_photo.jpg' width="2000">
   </td>
   <td width="10%">
   </td>
-  <td width="60%">
+  <td width="50%">
 <b><big>Welcome!</big></b>
   </td>
   </tr>
