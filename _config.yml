@@ -76,8 +76,9 @@ navigation_header:
   Home: /
   Bio: /bio/
   CV: /CV/
-  Africa: /africa_satellite/
-  Crops: /us_crop_predictions/
+  Malnutrition: /malnutrition/
+  Africa Crop Predictions: /africa_satellite/
+  US Crop Projections: /us_crop_predictions/
   Climate Extremes: /detecting_climate_change/
   El Nino: /el_nino/
 
