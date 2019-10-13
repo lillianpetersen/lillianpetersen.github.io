@@ -25,11 +25,6 @@ alt="Watch a video Describing my Project" width="576" height="432" border="10" /
  target="_blank"><img src="/pic/Africa_plot_april.png"
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
 
-#### Yearly NDVI Anomalies in Africa
-<a href="https://maps.esp.tl/maps/_Africa-NDVI-Anomalies/pages/map.jsp?geoMapId=458552&TENANT_ID=199953"
- target="_blank"><img src="/pic/AfricaNDVI2016.jpg" 
-alt="Check out my interactive map" width="520" height="440" border="10" /></a>
-
 [//]: <> ### Abstract
 
 [//]: <> Developing countries often have poor monitoring and reporting of weather and crop health, leading to slow responses to droughts and food shortages. Here, I develop satellite analysis methods and software tools to predict crop yields two to four months before the harvest. This method measures relative vegetation health based on pixel-level monthly anomalies of NDVI, EVI and NDWI indices. Because no crop mask, tuning, or subnational ground truth data are required, this method can be applied to any location, crop, or climate, making it ideal for African countries with small fields and poor ground observations. Testing began in Illinois where there is reliable county-level crop data. Correlations were computed between corn, soybean, and sorghum yields and monthly vegetation health anomalies for every county and year. A multivariate regression using every index and month (up to 1600 values) produced a correlation of 0.86 with corn, 0.74 for soybeans, and 0.65 for sorghum, all with p-values less than 10<sup><small>-6</small></sup>. The high correlations in Illinois show that this model has good forecasting skill for crop yields. Next, the method was applied to every country in Africa for each country’s main crops. Crop production was then predicted for the 2018 harvest and compared to actual production values. Twenty percent of the predictions had less than 2% error, and 40% had less than 5% error. This method is unique because of its simplicity and versatility: it shows that a single user on a laptop computer can produce reasonable real-time estimates of crop yields across an entire continent.
