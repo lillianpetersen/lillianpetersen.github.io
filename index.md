@@ -8,7 +8,7 @@ excerpt: "Lillian Petersen"
 
 <table cellpadding="10">
   <tr>
-  <td width="30%" rowspan="2"><img src='/pic/senior_photo.jpg' width="1500">
+  <td width="30%" rowspan="2"><img src='/pic/senior_photo.jpg' width="2000">
   </td>
   <td width="10%">
   </td>
