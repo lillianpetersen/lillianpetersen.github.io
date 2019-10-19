@@ -12,8 +12,8 @@ This browser does not support PDFs. Please download the PDF to view it: <a href=
 
 \_
 
-<object data="/pdf/gene_activation_presentation.pdf" tyse="application/pdf" width="100%" height="1100">
-<iframe src="/pdf/gene_activation_presentation.pdf" width="100%" height="1100" style="border: none;">
+<object data="/pdf/gene_activation_presentation.pdf" tyse="application/pdf" width="80%" height="1000">
+<iframe src="/pdf/gene_activation_presentation.pdf" width="80%" height="1000" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/gene_activation_presentation.pdf">Download PDF</a>
 </iframe>
 </object>
