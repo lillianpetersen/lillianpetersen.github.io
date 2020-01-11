@@ -73,7 +73,7 @@ avatarurl: "/pic/crop2.png" # note: could put avatar on gravitar website.
 
 # 8. Site navigation
 navigation_header:
-  Home: /
+  Home: /home/
   Bio: /bio/
   CV: /CV/
   Gene Activation: /gene_activation/
