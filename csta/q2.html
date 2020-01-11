@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<body style="width: 100%; max-width: 800px;">
+
+<style>
+p
+{
+  margin: 0;
+  padding:0;
+  font-size:18px;
+  line-height: 1.25em;
+}
+</style>
+
+<html>
+<body>
+
+<h1>CSTA Scholarship Application:<br>Lillian Kay Petersen</h1>
+<br>
+
+<p><b>Question 2: Describe the logistics or strategy/implementation with regards to computing, the impact on results, and any technical challenges faced in your project. Details relating to the abstractions and algorithms you implemented are expected.</br></b>
+<br>
+<p>Each part of the tool addresses a unique problem that currently hinders food security. Each solution relies on well-established statistical techniques that are appropriate for the computational problem at hand. Every method was first validated according to real data before it was applied to the test area.</p>
+<br>
+<p><b>1. Predicting Grain Harvests</b></p>
+<br>
+<p><i>1.1 Validation in Illinois</i>
+<br>
+MODIS imagery was obtained from the Descartes Labs Satellite Platform. A total of 600,000 daily images with a resolution of 250m (12 terabytes of raw data) were processed. To handle such large computations, I ran my code in parallel on the Google Cloud.
+<p style="text-indent: 25px;">To measure the health of crops throughout the growing season, three VIs were computed: NDVI, EVI, and NDWI. Because clouds distort image data, a cloud mask was used to mask out cloudy pixels. I computed the monthly by-pixel anomaly for each VI compared to the 2000-2016 average.</p>
+<p style="text-indent: 25px;">Correlations were found between each county’s yield anomaly and VIs for the growing season. To find the highest possible correlation amongst these variables and months, a multivariate regression was fit to each month and index. The multivariate regression obtained correlations for the three crops of 0.86, 0.74, and 0.65, respectively.</p>
+<p style="text-indent: 25px;">To test the predictive ability of the model, the data were split into a training group of 90% and a testing group of 10%. The multivariate regression was then fit to the training data and asked to predict the testing set. The median errors of the predicted yields are 5.8% for corn and soybeans, demonstrating the validity of this method.</p>
+<br>
+
+<p><i>1.2 Application to Africa</i></p>
+<p>The same method was then applied to every country in Africa. In each country, a box was analyzed over a representative dense farming region to limit the amount of data. The VI anomalies and averages were then correlated to national crop production data.</p>
+<p style="text-indent: 25px;">Future production was predicted for every crop and country with a harvest between December 2017 and June 2018. Overall, the model was able to predict crop yields with extreme accuracy: 21% of the predictions had a relative error below 2%, and 40% had errors below 5%.</p>
+<p style="text-indent: 25px;">The power of the method developed here is that it can be applied to any crop, location, or climate to produce reasonable real-time forecasts of crop yields. It is unique because of its versatility and easy to apply due to its simplicity.</p>
+
+<br>
+<p><b>2. Predicting Malnutrition Prevalence</b></p>
+<p>I developed software to predict acute malnutrition prevalence at a high resolution across sub-Saharan Africa.</p>
+<p style="text-indent: 25px;">I assembled a 13 gigabyte training set for machine learning. This required interpolating gridded variables to the malnutrition grid using a bivariate spline method. Vector datasets were interpolated into raster data using a variety of my own python functions. The malnutrition ground-truth dataset was comprised of gridded malnutrition prevalence from 2000-2015 at a 5km resolution.</p>
+<p style="text-indent: 25px;">I then trained a random forest regressor, a machine learning algorithm in the python library scikit learn, on the features to predict malnutrition prevalence. To validate the accuracy of the predictions, the data was split into a training set of 80% and a testing set of 20%. The model could predict the malnutrition prevalence with high accuracy: the predicted and actual malnutrition prevalence across 2000--2015 had a correlation of 0.95 with an average difference of 0.83% prevalence.</p>
+<p style="text-indent: 25px;">After the validation, I predicted malnutrition prevalence for 2016–2021. The prevalence of malnutrition is predicted to decrease in coming years, but the number of malnutrition cases will actually increase due to population growth.</p>
+<p style="text-indent: 25px;">The training features with the highest predictive power are, in order: female education, precipitation, forest cover, and school attendance. Therefore, aid organizations should focus on education to improve living standards.</p>
+
+<br>
+<p><b>3. Optimizing Supply Logistics of Specialized Nutritious Foods</b></p>
+<p>I created a capacitated facility location model to optimize SNF production and distribution networks in sub-Saharan Africa. The model meets the SNF demand while accounting for associated costs, including ingredients, production, and transportation. The tool returns the optimal placement and capacities of factories and ports; the type, quantity, and destination of SNF from each port and factory; and the total procurement cost. The optimization problem was coded using the python PuLP Library.</p>
+<p style="text-indent: 25px;">All data included in the model was obtained from published reports. To identify cost barriers, as well as to account for the inaccuracy of data in Africa, I ran a parameter study of the different costs. The supply chain model was run for approximately 700 cases, varying each of the following parameters independently: trucking, sea shipping, border, factory start-up, and tariffs costs.</p>
+<p style="text-indent: 25px;">The supply chain model effectively distributed malnutrition treatment through an optimized network of factories and ports. A validation was conducted using UNICEF’s current supply chain and my own cost calculations. Despite limitations in the amount of high-quality data in Africa, the model calculated the total supply chain cost within 3.2% of UNICEF's RUTF budget in sub-Saharan Africa and an error of 0.9% for the average transportation cost of treatment.</p>
+<p style="text-indent: 25px;">The model showed that the current SNF recipes are the largest cost driver in the treatment: using local, plant-based recipes could reduce the cost of the full supply chain by 25%. Tariffs are also a major cost driver: lower tariffs would make local production more cost-effective. The parameter study can also identify countries suitable for long-term investment.</p>
+
+
+<br>
+<p><b>Conclusions</b></p>
+<p>In conjunction, these tools could help policymakers decide how to most efficiently supply aid and ultimately provide more children with life-saving treatments.</p>
+
+<br>
+<p><b>Acknowledgements</b></p>
+<p>Thanks to Descartes Labs for satellite imagery mentorship and Garyk Brixi for collaboration on the supply chain tool.</p>
+
+</body>
+</html>

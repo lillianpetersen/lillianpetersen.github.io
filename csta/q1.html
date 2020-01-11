@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<body style="width: 100%; max-width: 800px;">
+
+
+<style>
+p
+{
+  margin: 0;
+  padding:0;
+  font-size:18px;
+  line-height: 1.25em;
+}
+</style>
+
+
+<html>
+<body>
+
+<h1>CSTA Scholarship Application:<br>Lillian Kay Petersen</h1>
+<br>
+
+<p><b>Question 1: Describe the vision and design process for your project as well as the problem it addresses. How will your project or prototype contribute to the current and future world of computer science?</br></b>
+<br>
+<p><b>1. Inspiration</b>
+<br>
+Nine years ago my family adopted three children who faced food insecurity in their former homes. My younger siblings all suffered from attachment disorder, anxiety, and ADHD, and struggled with coordination and speech. Every day I would spend hours playing, working, and reading with them to help them develop muscles and learn how to read and write.<p/>
+<p style="text-indent: 25px;">Several years later, I read on the news that multiple crop failures in Ethiopia had thrown the country into a state of emergency with eighteen million people in serious need of food. Both the government and aid organizations had not expected the drought and were unprepared for the detrimental hunger crisis. Because of situations like this, malnutrition is responsible for over three million child deaths each year.</p>
+<p style="text-indent: 25px;">I knew that this food crisis would not end with the new harvest or an influx of food aid; my younger siblings showed me that malnutrition is lifelong and hinders brain development. Motivated by my personal experiences, I became determined to help aid organizations increase food security in developing countries.</p>
+<br>
+
+<p><b>2. Design Process</b></p>
+<p>The objective of my tool is to inform cost-effective nutrition interventions in sub-Saharan Africa. It is comprised of three parts: (1) predicting grain harvests, (2) predicting acute malnutrition prevalence, and (3) optimizing the supply logistics of specialized nutritious foods (SNF). Each step is constructed using original python code, is based on publicly available data, and relies on well-founded statistical techniques.</p>
+<br>
+<p><i>2.1 Predicting Grain Harvests</i></p>
+<p>Developing countries often have poor monitoring and reporting of weather and crop health, leading to slow responses to droughts and food shortages. I developed satellite analysis methods and software tools to predict crop yields three months before the harvest. This software measures relative vegetation health based on pixel-level vegetation indices (VIs). VIs are a measure of plant health that are calculated from the light spectrum emitted from the land. Because this method requires no crop mask or subnational yield data, it can be applied to any crop or climate, making it ideal for African countries with small fields and poor ground observations. A validation was first conducted in Illinois where there is reliable county-level crop yield data. The monthly VIs were extremely well correlated with corn, soybean, and rice yields, showing that this model has good forecasting skill for crop yields. Next, the vegetation health was measured in every country in Africa to predict crop yields for future harvests. This method is unique because of its simplicity and versatility: it shows that a single user can produce reasonable real-time estimates of crop yields across an entire continent. This research was published in the peer-reviewed journal Remote Sensing: <a href="http://doi.org/10.3390/rs10111726">doi.org/10.3390/rs10111726</a></p>
+<br>
+
+<p><i>2.2 Predicting Malnutrition Prevalence</i></p>
+<p>Inaccurate or untimely forecasts of malnutrition prevalence often lead to crucial delays in planning and production of SNF, which can force aid organizations to use air transportation and dramatically increase the cost of treatment. Malnutrition is influenced by low crop yields as well as economic and political situations. I forecasted the geospatial demand of acute malnutrition treatment using machine learning algorithms. I used a random forest regression to predict future geospatial malnutrition prevalence across sub-Saharan Africa based on 33 training features that indicate development, economics, political situations, climate, and crop health. After performing a training and testing trial to validate the accuracy of the predictions, I predicted malnutrition prevalence across sub-Saharan Africa to 2021. A preprint of this work may be found at <a href="http://doi.org/10.5281/zenodo.3598017">doi.org/10.5281/zenodo.3598017</a></p>
+<br>
+
+<p><i>2.3 Optimizing the Supply Logistics of Specialized Nutritious Foods</i></p>
+<p>Malnutrition is treated with specialized nutritious foods, nutrient-dense pastes with specific nutrient requirements. Current SNF are costly due to inefficient supply chains and expensive ingredients. Recent initiatives by aid organizations have demonstrated the potential cost savings in more localized supply chains. I developed a tool to inform production and distribution decisions of malnutrition treatment as a capacitated facility location model. The supply chain of acute malnutrition treatment is optimized based on published ingredient, factory, and transport costs to (a) minimize cost while treating the full caseload or (b) maximize cases treated on a set budget. A validation based on the current UNICEF supply chain returned values within 3.2% of actual costs. This model is able to evaluate the savings of novel local treatment recipes, identify cost drivers in the supply chain, and recommend countries that are suitable for investment in local production. This paper is currently under review in World Development: <a href="http://doi.org/10.5281/zenodo.3597760">doi.org/10.5281/zenodo.3597760</a></p>
+
+<br>
+<p><b>3. Contributions to Computer Science</b></p>
+<p>These tools demonstrate the power of computer programing, big data, and inexpensive commodity hardware to solve complex, real-world problems. In my code, statistical algorithms and high performance computing come together with large datasets to create applicable, cost-effective policy recommendations on how to increase food security. These tools can be easily adjusted by the user to include real-time data, thus allowing aid organizations to adjust distribution networks according to up-to-date information. This project showcases the vast power of computer science to improve food security and save lives.</p>
+<p style="text-indent: 25px;">For this research I was invited to speak at eleven aid and research organizations, including USAID, the USDA, the Famine Early Warning System Network, GEOGLAM Crop Monitoring Group, and the International Food Policy Research Institute. I was also an invited speaker at the conferences AGU, Geo4Dev, and the 2018 and 2019 CGIAR Big Data in Agriculture Conventions in Kenya and India.</p>
+
+
+</body>
+</html>
