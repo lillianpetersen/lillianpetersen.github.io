@@ -66,7 +66,7 @@ description: "Personal Website"
 # Site description and default description, also used in jekyll-seo-tag
 url: "https://lillianpetersen.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/lillianpetersen/alembic"
+repo: "https://github.com/lillianpetersen/lillianpetersen.github.io"
 email: "lilliankay.petersen@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 avatarurl: "/pic/crop2.png" # note: could put avatar on gravitar website.
