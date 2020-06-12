@@ -4,19 +4,13 @@ feature_image: "/pic/austria_view_panorama.jpg"
 excerpt: "Activity-by-Contact Model"
 ---
 
-<object data="/pdf/gene_activation_overview.pdf" tyse="application/pdf" width="80%" height="1000">
-<iframe src="/pdf/gene_activation_overview.pdf" width="80%" height="1000" style="border: none;">
-This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/gene_activation_overview.pdf">Download PDF</a>
+<object data="/pdf/Petersen_Lillian_Activity_By_Contact.pdf" tyse="application/pdf" width="80%" height="1000">
+<iframe src="/pdf/Petersen_Lillian_Activity_By_Contact.pdf" width="80%" height="1000" style="border: none;">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Petersen_Lillian_Activity_By_Contact.pdf">Download PDF</a>
 </iframe>
 </object>
 
-\_
-
-<object data="/pdf/gene_activation_presentation.pdf" tyse="application/pdf" width="80%" height="1000">
-<iframe src="/pdf/gene_activation_presentation.pdf" width="80%" height="1000" style="border: none;">
-This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/gene_activation_presentation.pdf">Download PDF</a>
-</iframe>
-</object>
+\_ 
 
 <p align="right">
 <a href="http://www.hitwebcounter.com">
