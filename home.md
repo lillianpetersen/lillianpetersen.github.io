@@ -20,8 +20,7 @@ excerpt: "Lillian Petersen"
   <td width="10%">
   </td>
   <td width="60%">
-Thanks for visiting my website!
-I am currently a senior at Los Alamos High School and I enjoy computer programming, science, and math. My goal is to use big data to answer relevant questions. Over the past five years, my research has focused on climate change, food shortages, malnutrition, and cancer. To learn more about my research, check out my other pages!
+I am an incoming freshman at Harvard College. I plan to major in Applied Math and Molecular Biology and minor in Computer Science. In high school, I completed six research projects on topics that focused on climate change, food shortages, malnutrition, and cancer. I enjoy computer programming and believe that data analysis has the power to answer relevant questions about ourselves and our society.
 
   </td>
   </tr>
