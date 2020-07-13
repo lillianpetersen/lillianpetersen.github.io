@@ -27,7 +27,7 @@ High risk of famine in Africa as COVID19 and locusts amplify dry conditions.
 </ul>
 </p>
 
-<img src="/pic/predicted_african_yields_july2020.jpg" style="width:600px;" border="0">
+<img src="/pic/predicted_african_yields_july2020.jpg" style="width:800px;" border="0">
 
 <p style="font-family: arial, sanserif; font-size:20pt">
 <b>Most counties are solely focused on domestic risks of COVID19.
