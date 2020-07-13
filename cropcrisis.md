@@ -3,15 +3,15 @@ title: BREAKING\: PREDICED WIDESPREAD CROP FAILURE DUE TO COVID19
 excerpt: "High risk of famine in Africa as COVID19 and locusts amplify dry conditions"
 ---
 
-<p style="font-family: times, sanserif; font-size:30pt">
-BREAKING: PREDICED WIDESPREAD CROP FAILURE DUE TO COVID19
+<p style="font-family: times, sanserif; font-size:25pt">
+BREAKING: PREDICED WIDESPREAD CROP FAILURE
 </p>
 
 <p style="font-family: times, sanserif; font-size:18pt">
 High risk of famine in Africa as COVID19 and locusts amplify dry conditions
 </p>
 
-<img src="/pic/predicted_african_yields_july2020.jpg" style="width:500px;">
+<img src="/pic/predicted_african_yields_july2020.jpg" style="width:600px;">
 
 
 <p align="right">
