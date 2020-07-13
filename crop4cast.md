@@ -25,8 +25,8 @@ High risk of famine in Africa as locusts and COVID19 complications amplify dry c
 <img src="/pic/predicted_african_yields_july2020.jpg" style="width:800px;" border="0">
 
 <p style="font-family: arial, sanserif; font-size:20pt">
-<b>Most counties are solely focused on domestic risks of COVID19.
-<br>But there is a global humanitarian crisis in the making that is going unnoticed.</b>
+<b>Most countries are solely focused on domestic risks of COVID19.
+<br>But there is a global humanitarian crisis in the making that is going unnoticed by the media and the public.</b>
 </p>
 
 
