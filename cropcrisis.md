@@ -1,10 +1,6 @@
 ---
 title: BREAKING\: PREDICED WIDESPREAD CROP FAILURE DUE TO COVID19
 excerpt: "High risk of famine in Africa as COVID19 and locusts amplify dry conditions"
-
-.boxed {
-  border: 1px solid black;
-}
 ---
 
 <p style="font-family: arial, sanserif; font-size:25pt">
@@ -13,6 +9,7 @@ BREAKING: PREDICED WIDESPREAD CROP FAILURE
 <p style="font-family: arial, sanserif; font-size:20pt">
 High risk of famine in Africa as COVID19 and locusts amplify dry conditions.
 </p>
+<hr>
 
 <p style="font-family: arial, sanserif; font-size:18pt">
 <ul style="PADDING-LEFT: 20px">
@@ -27,10 +24,6 @@ High risk of famine in Africa as COVID19 and locusts amplify dry conditions.
 </p>
 
 <img src="/pic/predicted_african_yields_july2020.jpg" style="width:600px;" border="0">
-
-<div class="boxed">
-  This text is enclosed in a box.
-</div>
 
 <p style="font-family: arial, sanserif; font-size:20pt">
 <b>Most counties are solely focused on domestic risks of COVID19.
