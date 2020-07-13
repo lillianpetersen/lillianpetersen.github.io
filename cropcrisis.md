@@ -9,11 +9,12 @@ BREAKING: PREDICED WIDESPREAD CROP FAILURE
 
 <p style="font-family: times, sanserif; font-size:18pt">
 High risk of famine in Africa as COVID19 and locusts amplify dry conditions.
-
+\\
+\\
 Real-time predictions of African crop yields as of July 2020:
 </p>
 
-<img src="/pic/predicted_african_yields_july2020.jpg" style="width:600px;">
+<img src="/pic/predicted_african_yields_july2020.jpg" style="width:600px;" border="0">
 
 
 <p align="right">
