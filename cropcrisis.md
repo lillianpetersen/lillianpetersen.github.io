@@ -11,9 +11,12 @@ High risk of famine in Africa as COVID19 and locusts amplify dry conditions.
 </p>
 
 <p style="font-family: arial, sanserif; font-size:18pt">
-<ul style="list-style-type:circle" style="PADDING-LEFT: 12px">
+<ul style="PADDING-LEFT: 20px">
   <li>Current predictions point to <i>exceptionally</i> low harvests across Africa.</li>
   <li>Reasons include:</li>
+  <ul style="PADDING-LEFT: 30px">
+   <li>COVID19: economic volatility, interrupted supply chains, delayed international support</li>
+  </ul>
 </ul>
 </p>
 
