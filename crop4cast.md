@@ -31,7 +31,7 @@ High risk of famine in Africa as COVID19 and locusts amplify dry conditions.
 
 <p style="font-family: arial, sanserif; font-size:20pt">
 <b>Most counties are solely focused on domestic risks of COVID19.
-But there is a global humanitarian crisis in the making that is going unnoticed.</b>
+<br>But there is a global humanitarian crisis in the making that is going unnoticed.</b>
 </p>
 
 
