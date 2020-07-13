@@ -7,7 +7,7 @@ excerpt: "High risk of famine in Africa as COVID19 and locusts amplify dry condi
 BREAKING: PREDICED WIDESPREAD CROP FAILURE
 </p>
 <p style="font-family: arial, sanserif; font-size:20pt">
-High risk of famine in Africa as COVID19 and locusts amplify dry conditions.
+High risk of famine in Africa as locusts and COVID19 complications amplify dry conditions.
 </p>
 
 <p style="font-family: arial, sanserif; font-size:18pt">
