@@ -17,7 +17,8 @@ High risk of famine in Africa as locusts and COVID19 complications amplify dry c
   <ul style="PADDING-LEFT: 30px">
    <li>COVID19: economic volatility, interrupted supply chains, delayed international support</li>
    <li>Devastating locust swarms</li>
-   <li>These greatly exacerbate risk of famine due to drought conditions</li>
+   <li>Severe drought conditions</li>
+   <li>Local wars</li>
   </ul>
 </ul>
 </p>
