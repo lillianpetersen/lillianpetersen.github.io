@@ -26,7 +26,7 @@ High risk of famine in Africa as locusts and COVID19 complications amplify dry c
 
 <img src="/pic/predicted_african_yields_july2020.jpg" style="width:800px;" border="0">
 <p style="font-family: arial, sanserif; font-size:14pt;" border="0">
-Note: Crop4cast relies on a linear regression model to predict crop yields based on satellite indices. Although highly reliable, linear regressions break down at extremes outside of their training data. This year is predicted to have such exceptionally low harvests that it is outside of the training realm. Therefore, Lesotho will likely harvest some crops, but it will be a very bad year.
+Note: Crop4cast relies on a linear regression model to predict crop yields based on satellite indices. Although highly reliable, linear regressions break down at extremes outside of the training data, such as this year. Therefore, Lesotho will likely harvest some crops, but it will be a very bad year.
 </p>
 
 <p style="font-family: arial, sanserif; font-size:20pt">
