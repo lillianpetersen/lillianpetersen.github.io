@@ -35,6 +35,7 @@ Further resources:
 <br>
 <ul style="PADDING-LEFT: 40px" style="font-family: arial, sanserif; font-size:16pt">
   <li><a href="https://www.drought.gov/gdm/current-conditions">NIDIS Global Drought Information System</a><br><img src="/pic/NIDIS_image.png" style="width:150px;" border="0"> </li>
+  <li><a href="https://fews.net/">Famine Early Warning System Network Monitor</a><br><img src="/pic/FEWS_NET_thumbnail.png" style="width:150px;" border="0"> </li>
 </ul>
 </p>
 
