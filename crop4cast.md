@@ -37,6 +37,16 @@ Further resources:
   <li><a href="https://www.drought.gov/gdm/current-conditions">NIDIS Global Drought Information System</a><br><img src="/pic/NIDIS_image.png" style="width:150px;" border="0"> </li>
   <li><a href="https://fews.net/">Famine Early Warning System Network Monitor</a><br><img src="/pic/FEWS_NET_thumbnail.png" style="width:150px;" border="0"> </li>
   <li><a href="http://www.fao.org/home/en/">Food and Agriculture Organization of the UN</a><br><img src="/pic/FAO_thumbnail.png" style="width:200px;" border="0"> </li>
+  <ul style="PADDING-LEFT: 80px">
+  <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1273539/">Ethiopia</a></li>
+  <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1271802/">Democratic Republic of the Congo</a></li>
+  <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1278521/">Niger</a></li>
+  <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1293148/">Nigeria</a></li>
+  <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1277473/">Mozambique</a></li>
+  <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1296634/">South Sudan</a></li>
+  <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1276774/">West Africa: Locusts</a></li>
+  <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1276759/">Greater Horn of Africa and Yemen: Locusts</a></li>
+  </ul>
 </ul>
 </p>
 
