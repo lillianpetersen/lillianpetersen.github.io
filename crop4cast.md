@@ -49,6 +49,7 @@ Further resources:
   <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1276774/">West Africa: Locusts</a></li>
   <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1276759/">Greater Horn of Africa and Yemen: Locusts</a></li>
   </ul>
+  <li><a href="https://www.usaid.gov/sites/default/files/documents/1866/East_Africa_Desert_Locust_Crisis_Fact_Sheet_4_-_06-15-2020.pdf">USAID: Information on Locust Crisis</a></li>
 </ul>
 </p>
 
