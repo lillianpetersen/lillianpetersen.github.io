@@ -57,6 +57,20 @@ Further resources:
 </ul>
 </p>
 
+<br>
+<p style="font-family: arial, sanserif; font-size:18pt">
+News:
+<ul style="PADDING-LEFT: 60px; font-family: arial, sanserif; font-size:16pt">
+  <li><a href="https://www.nytimes.com/2020/04/22/world/africa/coronavirus-hunger-crisis.html">‘Instead of Coronavirus, the Hunger Will Kill Us.’ A Global Food Crisis Looms.</a> </li>
+  <li><a href="https://www.cnn.com/2020/07/12/us/hunger-crisis-deaths-coronavirus-oxfam-trnd/index.html">The hunger crisis linked to coronavirus could kill more people than the disease itself</a> </li>
+  <li><a href="https://news.un.org/en/story/2020/05/1063232">Food insecurity in West Africa could leave 43 million at risk as coronavirus hits</a> </li>
+  <li><a href="https://www.wfp.org/news/hunger-could-double-east-africa-and-horn-months-coronavirus-spreads">Hunger could double in East Africa and the Horn in months as coronavirus spreads</a> </li>
+  <li><a href="https://africa.cgtn.com/2020/07/14/un-130-million-more-people-may-face-chronic-hunger-by-end-of-2020/">UN: 130 million more people may face chronic hunger by end of 2020</a> </li>
+  <li><a href="https://blogs.imf.org/2020/06/04/safeguarding-africas-food-security-in-the-age-of-covid-19/">Safeguarding Africa’s Food Security in the Age of COVID-19</a> </li>
+  <li><a href="https://www.weforum.org/agenda/2020/04/africa-coronavirus-covid19-imports-exports-food-supply-chains">COVID-19 is exacerbating food shortages in Africa</a> </li>
+</ul>
+</p>
+
 
 <p align="right">
 <a href="http://www.hitwebcounter.com">
