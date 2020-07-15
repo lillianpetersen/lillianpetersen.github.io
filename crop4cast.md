@@ -18,6 +18,7 @@ High risk of famine in Africa as locusts and COVID19 complications amplify dry c
    <li>COVID19: economic volatility, interrupted supply chains, delayed international support</li>
    <li>Devastating locust swarms</li>
    <li>Severe drought conditions</li>
+   <li>Abundant rains leading to localized flooding and mudslides, which cause population displacement, infrastructure damage, and crop damage</li>
    <li>Local wars</li>
   </ul>
 </ul>
@@ -35,7 +36,8 @@ High risk of famine in Africa as locusts and COVID19 complications amplify dry c
 Further resources:
 <ul style="PADDING-LEFT: 60px; font-family: arial, sanserif; font-size:16pt">
   <li><a href="https://www.drought.gov/gdm/current-conditions">NIDIS Global Drought Information System</a><br><img src="/pic/NIDIS_image.png" style="width:150px;" border="0"> </li>
-  <li><a href="https://fews.net/">Famine Early Warning System Network Monitor</a><br><img src="/pic/FEWS_NET_thumbnail.png" style="width:150px;" border="0"> </li>
+  <li><a href="https://fews.net/">Famine Early Warning System Network Monitor</a><br><img src="/pic/FEWS_NET_thumbnail.png" style="width:120px;" border="0"> </li>
+  <li><a href="https://cropmonitor.org/index.php/cmreports/special-reports/">Geoglam Crop Monitor</a><br><img src="/pic/Geoglam_thumbnail.png" style="width:150px;" border="0"> </li>
   <li><a href="http://www.fao.org/home/en/">Food and Agriculture Organization of the UN</a><br><img src="/pic/FAO_thumbnail.png" style="width:200px;" border="0"> </li>
   <ul style="PADDING-LEFT: 80px">
   <li><a href="http://www.fao.org/emergencies/resources/documents/resources-detail/en/c/1273539/">Ethiopia</a></li>
