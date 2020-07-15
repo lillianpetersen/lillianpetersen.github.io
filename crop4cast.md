@@ -33,8 +33,8 @@ High risk of famine in Africa as locusts and COVID19 complications amplify dry c
 <p style="font-family: arial, sanserif; font-size:18pt">
 Further resources:
 <br>
-<ul style="PADDING-LEFT: 20px" style="font-family: arial, sanserif; font-size:18pt">
-  <li><a href="https://www.drought.gov/gdm/current-conditions">NIDIS Global Drought Information System</a> <img src="pic/NIDIS_image.png" style="width:150px;" border="0"> </li>
+<ul style="PADDING-LEFT: 40px" style="font-family: arial, sanserif; font-size:16pt">
+  <li><a href="https://www.drought.gov/gdm/current-conditions">NIDIS Global Drought Information System</a><br><img src="/pic/NIDIS_image.png" style="width:150px;" border="0"> </li>
 </ul>
 </p>
 
