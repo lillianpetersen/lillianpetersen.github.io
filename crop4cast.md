@@ -29,12 +29,12 @@ High risk of famine in Africa as locusts and COVID19 complications amplify dry c
 Note: Crop4cast relies on a linear regression model to predict crop yields based on satellite indices. Although highly reliable, linear regressions break down at extremes outside of the training data, such as this year. Therefore, predictions that are as low as Lesotho's warn of extreme food insecurity, but do not literally mean that Lesotho will harvest no crops.
 </p>
 
-___
+***
 <p style="font-family: arial, sanserif; font-size:20pt">
 <b>Most countries are solely focused on domestic risks of COVID19.
 <br>But there is a global humanitarian crisis in the making that is going unnoticed by the media and the public.</b>
 </p>
-___
+***
 
 <br>
 <p style="font-family: arial, sanserif; font-size:18pt">
