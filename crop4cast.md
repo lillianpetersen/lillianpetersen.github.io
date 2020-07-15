@@ -30,6 +30,14 @@ High risk of famine in Africa as locusts and COVID19 complications amplify dry c
 <br>But there is a global humanitarian crisis in the making that is going unnoticed by the media and the public.</b>
 </p>
 
+<p style="font-family: arial, sanserif; font-size:18pt">
+Further resources:
+<br>
+<ul style="PADDING-LEFT: 20px">
+  <li><a href="https://www.drought.gov/gdm/current-conditions">NIDIS Global Drought Information System</a> <img src="pic/NIDIS_image.png" style="width:150px;" border="0"> </li>
+</ul>
+</p>
+
 
 <p align="right">
 <a href="http://www.hitwebcounter.com">
