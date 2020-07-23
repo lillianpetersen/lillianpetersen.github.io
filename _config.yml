@@ -82,8 +82,6 @@ navigation_header:
   US Crops: /us_crop_predictions/
   Climate Extremes: /detecting_climate_change/
   El Nino: /el_nino/
-  WIDESPREAD CROP FAILURES DUE TO COVID19: /crop4cast/
-
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   GitHub: https://github.com/lillianpetersen
