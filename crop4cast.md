@@ -17,12 +17,11 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 
 #### Publication in Remote Sensing
 <p style="font-family: arial, sanserif; font-size:18pt">
-Interactive Map:
 <a href="https://www.mdpi.com/2072-4292/10/11/1726">Petersen, L.K.    Real-Time Prediction of Crop Yields From MODIS Relative Vegetation Health: A Continent-Wide Analysis of Africa. Remote Sensing, 2018, 10, 1726.</a>
 </p> 
 
-<object data="/pdf/Petersen-remotesensing-10-01726.pdf" type="application/pdf" width="100%" height="1100">
-<iframe src="/pdf/Petersen-remotesensing-10-01726.pdf" width="100%" height="1100" style="border: none;">
+<object data="/pdf/Petersen-remotesensing-10-01726.pdf" type="application/pdf" width="90%" height="1000">
+<iframe src="/pdf/Petersen-remotesensing-10-01726.pdf" width="90%" height="1000" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="/pdf/Petersen-remotesensing-10-01726.pdf">Download PDF</a>
 </iframe>
 </object>
@@ -36,6 +35,7 @@ alt="Watch a video Describing my Project" width="576" height="432" border="10" /
 #### Crop Yield Predictions and Errors for 2018 Harvests
 <img src="/pic/2018_crop_predictions.jpg" style='width:600px;' >
 <br>
+Interactive Map:
 <a href="https://maps.esp.tl/maps/_Yield-Predictions-Africa-2018-Harvests/pages/map.jsp?geoMapId=558903&TENANT_ID=156108"
  target="_blank"><img src="/pic/Africa_plot_april.jpg"
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
