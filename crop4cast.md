@@ -8,7 +8,7 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 #### Current Crop Yield Conditions, updated July 2020
 <p style="font-family: arial, sanserif; font-size:19pt">
 <ul style="PADDING-LEFT: 20px">
-  <li>Rainy seasons across Africa seem to be keeping crop conditions favorable</li>
+  <li>Rainy seasons across Africa are keeping crop conditions favorable</li>
   <li>It is vital that we continue to keep an eye on crop conditions as the repercussions of COVID19 continue to develop. It is possible that farmers will have insufficient access to seeds, fertilizers, and pesticides due to economic volatility, which could lead to an international hunger crisis.</li>
 </ul>
 </p>
@@ -17,6 +17,7 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 
 #### Publication in Remote Sensing
 <p style="font-family: arial, sanserif; font-size:18pt">
+Interactive Map:
 <a href="https://www.mdpi.com/2072-4292/10/11/1726">Petersen, L.K.    Real-Time Prediction of Crop Yields From MODIS Relative Vegetation Health: A Continent-Wide Analysis of Africa. Remote Sensing, 2018, 10, 1726.</a>
 </p> 
 
