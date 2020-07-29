@@ -20,7 +20,6 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 <br>
 <a href="https://www.mdpi.com/2072-4292/10/11/1726">Petersen, L.K.    Real-Time Prediction of Crop Yields From MODIS Relative Vegetation Health: A Continent-Wide Analysis of Africa. Remote Sensing, 2018, 10, 1726.</a>
 </p> 
-<img src="/pic/2018_crop_predictions.jpg" >
 
 #### My Talk on African Crop Prediction
 <a href="https://www.youtube.com/watch?v=_uMGB55wFzA&t="
@@ -28,6 +27,8 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 alt="Watch a video Describing my Project" width="576" height="432" border="10" /></a>
 
 #### Crop Yield Predictions and Errors for 2018 Harvests
+<img src="/pic/2018_crop_predictions.jpg" style='width:500px;' >
+<br>
 <a href="https://maps.esp.tl/maps/_Yield-Predictions-Africa-2018-Harvests/pages/map.jsp?geoMapId=558903&TENANT_ID=156108"
  target="_blank"><img src="/pic/Africa_plot_april.jpg"
 alt="Check out my interactive map" width="520" height="440" border="10" /></a>
