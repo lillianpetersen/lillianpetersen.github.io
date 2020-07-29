@@ -76,9 +76,9 @@ navigation_header:
   Home: /home/
   Bio: /bio/
   CV: /CV/
+  Crop4Cast: /crop4cast/
   Gene Activation: /gene_activation/
   Malnutrition: /malnutrition/
-  Crop4Cast: /crop4cast/
   US Crops: /us_crop_predictions/
   Climate Extremes: /detecting_climate_change/
   El Nino: /el_nino/
