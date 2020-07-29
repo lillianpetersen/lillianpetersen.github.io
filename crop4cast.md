@@ -4,6 +4,7 @@ feature_image: "/pic/forest_panorama.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
+<br>
 #### Current Crop Yield Conditions, updated July 2020
 <p style="font-family: arial, sanserif; font-size:19pt">
 <ul style="PADDING-LEFT: 20px">
@@ -15,7 +16,7 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 <img src="/pic/crop4cast_predictions_july2020.jpg" style="width:800px;" border="0">
 
 #### Publication in Remote Sensing
-<p style="font-family: arial, sanserif; font-size:24pt">
+<p style="font-family: arial, sanserif; font-size:18pt">
 <br>
 <a href="https://www.mdpi.com/2072-4292/10/11/1726">Petersen, L.K.    Real-Time Prediction of Crop Yields From MODIS Relative Vegetation Health: A Continent-Wide Analysis of Africa. Remote Sensing, 2018, 10, 1726.</a>
 </p> 
