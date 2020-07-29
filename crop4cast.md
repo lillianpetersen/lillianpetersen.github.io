@@ -8,8 +8,8 @@ excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 #### Current Crop Yield Conditions, updated July 2020
 <p style="font-family: arial, sanserif; font-size:19pt">
 <ul style="PADDING-LEFT: 20px">
-  <li>Rainy seasons across Africa seem to be keeping crop conditions favorable
-  <li>It is vital that we continue to keep an eye on crop conditions as the repercussions of COVID19 continue to develop. It is possible that farmers will have insufficient access to seeds, fertilizers, and pesticides due to economic volatility, which could lead to an international hunger crisis.
+  <li>Rainy seasons across Africa seem to be keeping crop conditions favorable</li>
+  <li>It is vital that we continue to keep an eye on crop conditions as the repercussions of COVID19 continue to develop. It is possible that farmers will have insufficient access to seeds, fertilizers, and pesticides due to economic volatility, which could lead to an international hunger crisis.</li>
 </ul>
 </p>
 
