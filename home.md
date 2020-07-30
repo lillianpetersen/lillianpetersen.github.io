@@ -23,9 +23,9 @@ excerpt: "Lillian Petersen"
 Thanks for visiting my website! I am an incoming freshman at Harvard College where I plan to major in Applied Math and Molecular Biology. Before entering college, I completed six research projects on topics that focused on climate change, food shortages, malnutrition, and cancer. I enjoy computer programming and believe that statistical analysis of big data has a unique power to answer socially relevant questions.
 
 <br>
-To learn more about me, check out this video:
+To learn more about me and my Regeneron STS project, check out this video!
 <a href="https://www.youtube.com/watch?v=4gK_5KwIQ1U&feature=youtu.be"
- target="_blank"><img src="/pic/regeneron_sts_photo.png"
+ target="_blank"><img src="/pic/regeneron_sts_photo.jpg"
  alt="Learn about my Regeneron STS project!" height="500" border="10" /></a>
 
   </td>
