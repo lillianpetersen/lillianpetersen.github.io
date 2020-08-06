@@ -1,5 +1,5 @@
 ---
-title: Cirriculum Vitae
+title: Curriculum Vitae
 feature_image: "/pic/resevior.jpg"
 excerpt: "CV"
 ---
