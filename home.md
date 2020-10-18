@@ -20,7 +20,7 @@ excerpt: "Lillian Kay Petersen"
   <td width="10%">
   </td>
   <td width="60%">
-Thanks for visiting my website! I am a undergraduate student at Harvard in the class of 2024 where I am pursuing a degree in Applied Math to Molecular Biology. I have completed six research projects on topics that focused on climate change, food shortages, malnutrition, and cancer. I enjoy computer programming and believe that statistical analysis of big data has a unique power to answer socially relevant questions.
+Thanks for visiting my website! I am a undergraduate student at Harvard in the class of 2024 where I am pursuing a degree in Applied Math to Molecular Biology. I have completed six research projects on topics that focused on climate change, food shortages, malnutrition, and cancer, and have two peer-reviewed papers. I enjoy computer programming and believe that statistical analysis of big data has a unique power to answer socially relevant questions.
 
 <br>
 <br>
