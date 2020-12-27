@@ -4,17 +4,6 @@ feature_image: "/pic/forest_panorama.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
-<br>
-#### Current Crop Yield Conditions, updated July 2020
-<p style="font-family: arial, sanserif; font-size:19pt">
-<ul style="PADDING-LEFT: 20px">
-  <li>Rainy seasons across Africa are keeping crop conditions favorable</li>
-  <li>It is vital that we continue to keep an eye on crop conditions as the repercussions of COVID19 continue to develop. It is possible that farmers will have insufficient access to seeds, fertilizers, and pesticides due to economic volatility, which could lead to an international hunger crisis.</li>
-</ul>
-</p>
-
-<img src="/pic/crop4cast_predictions_july2020.jpg" style="width:800px;" border="0">
-
 #### Publication in Remote Sensing
 <p style="font-family: arial, sanserif; font-size:18pt">
 <a href="https://www.mdpi.com/2072-4292/10/11/1726">Petersen, L.K.    Real-Time Prediction of Crop Yields From MODIS Relative Vegetation Health: A Continent-Wide Analysis of Africa. Remote Sensing, 2018, 10, 1726.</a>
@@ -35,11 +24,6 @@ alt="Watch a video Describing my Project" width="576" height="432" border="10" /
 #### Crop Yield Predictions and Errors for 2018 Harvests
 <img src="/pic/2018_crop_predictions.jpg" style='width:700px;' >
 <br>
-Interactive Map:
-
-<a href="https://maps.esp.tl/maps/_Yield-Predictions-Africa-2018-Harvests/pages/map.jsp?geoMapId=558903&TENANT_ID=156108"
- target="_blank"><img src="/pic/Africa_plot_april.jpg"
-alt="Check out my interactive map" width="520" height="440" border="10" /></a>
 
 #### Abstract
 
