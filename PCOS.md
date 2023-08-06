@@ -1,10 +1,8 @@
 ---
-title: 
+title: Understanding and Predicting Polycystic Ovarian Syndrome through Shared Genetics with Testosterone, SHBG, and Chronic Inflammation
 feature_image: "/pic/grand_canyon2.jpg"
 excerpt: "PCOS"
 ---
-
-## Understanding and Predicting Polycystic Ovarian Syndrome through Shared Genetics with Testosterone, SHBG, and Chronic Inflammation
 
 Authors: Lillian Kay Petersen\*, Garyk Brixi\*, Jun Li, Jie Hu, Zicheng Wang, Xikun Han, Anat Yaskolka Meir, Jaakko Tyrmi, Shruthi Mahalingaiah, Terhi Piltonen, Liming Liang
 
