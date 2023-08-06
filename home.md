@@ -20,15 +20,11 @@ excerpt: "Lillian Kay Petersen"
   <td width="10%">
   </td>
   <td width="60%">
-I am a undergraduate student at Harvard in the class of 2024 where I am pursuing a degree in Applied Math and Molecular Biology. I am a proficient programmer and have completed research projects that focused on climate change, food shortages, malnutrition, cancer, and genetic association studies, and have two peer-reviewed papers. I enjoy computer programming and believe that statistical analysis of big data has a unique power to answer socially relevant questions.
+
+I'm a Harvard senior who uses machine learning to discover new biological insights. I take advances from the field of AI and apply them to molecular biology. I have a computational passion for NLP and biological passion for epigenetics, proteins, and gene regulation.
 
 <br>
 <br>
-<b>To learn more about me and my Regeneron STS project, check out this video!</b>
-<a href="https://www.youtube.com/watch?v=4gK_5KwIQ1U&feature=youtu.be"
- target="_blank"><img src="/pic/regeneron_sts_photo.jpg"
- alt="Learn about my Regeneron STS project!" height="500" border="10" /></a>
-
   </td>
   </tr>
 </table>

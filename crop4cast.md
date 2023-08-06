@@ -1,12 +1,12 @@
 ---
-title: Predicting Food Shortages in Africa from Satellite Imagery
+title: Real-Time Prediction of Crop Yields From MODIS Relative Vegetation Health: A Continent-Wide Analysis of Africa
 feature_image: "/pic/forest_panorama.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
 
 #### Publication in Remote Sensing
 <p style="font-family: arial, sanserif; font-size:18pt">
-<a href="https://www.mdpi.com/2072-4292/10/11/1726">Petersen, L.K.    Real-Time Prediction of Crop Yields From MODIS Relative Vegetation Health: A Continent-Wide Analysis of Africa. Remote Sensing, 2018, 10, 1726.</a>
+<a href="https://www.mdpi.com/2072-4292/10/11/1726">Publication</a>
 </p> 
 
 <object data="/pdf/Petersen-remotesensing-10-01726.pdf" type="application/pdf" width="90%" height="900">
