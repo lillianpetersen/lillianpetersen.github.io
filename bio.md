@@ -67,7 +67,7 @@ I always love learning new skills, and have even dabbled in some instrument engi
   <img src="/pic/Grand_canyon_run.jpg" >
   <img src="/pic/skiing.jpg" >
   <img src="/pic/post_half_marathon.jpg" >
-  <img src="/pic/fountain_pic.jpg" >
+  <img src="/pic/fountains_pic.jpg" >
   </td>
   </tr>
 </table>
