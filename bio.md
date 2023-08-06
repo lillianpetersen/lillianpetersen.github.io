@@ -4,28 +4,29 @@ feature_text: |
  <span style="color:white">A little bit about me</span>
 feature_image: "/pic/colorado.jpg"
 excerpt: "Biography"
+geometry: margin=30mm
 ---
 <table cellpadding="10">
   <tr>
   <td colspan="3" >
-
 
   </td>
   </tr>
   <tr>
   <td width="70%">
 
-<h4>Summary</h4>
 Hello, thanks for visiting my website! Here is a bit about me and my story.
 <br>
 <h4>Young me</h4>
+<br>
 I discovered my passion for science and programming in 7th grade. Our local ski hill, Pajarito, sometimes didn't get enough snow to open, and I wondered what might cause this. I learned that El Nino can effect winter weather, and decided to see if I could use El Nino to predict snowfall at my local ski hill. I taught myself Python and built a simple linear model to predict Pajarito snowfall based on the El Nino in August. It worked pretty well!
 <br>
 <br>
-In 8th grade, I expanded my skills to work with much larger datasets --- I downloaded the daily weather data for every seather station in the world and calculated how the local climate has changed since 1950. This project taught me how important it is to connect science with broader impact, such as public awareness.
+In 8th grade, I expanded my skills to work with much larger datasets<code>&#8212;</code>I downloaded the daily weather data for every seather station in the world and calculated how the local climate has changed since 1950. This project taught me how important it is to connect science with broader impact, such as public awareness.
 <br>
 <br>
 <h4>High school overview</h4>
+<br>
 What does climate change have a huge impact on? Crop production. Now I determined the relationship between heat extremes and crop yields, and used these assumptions to predict crop production through 2100 in every US county, for 2 different emissions scenarios. I also learned valuable scientific writing skills and after much work published this work in the peer-reviewed journal MDPI Climate.
 <br>
 <br>
@@ -36,23 +37,23 @@ For this work, I was invited to give seminars around the world, including at USA
 <br>
 <br>
 <h4>College</h4>
+<br>
 I majored in applied math and molecular biology, using college to deepen my programming skills (eg systems programming and algorithms) and math skills (linear algebra, statistics and inference, multivariable calc), and chase my new passion for molecular biology. I discovered machine learning and became enthralled by it, taking mulitple classes focused on ML and doing side projects to deepen my skills.
 <br>
 <br>
 My freshman year I started a project in Dr. Liang's lab at the Harvard School of Public Health. I wanted to use genetics to make advancements in our understanding of complex diseases, and chose to study Polycystic Ovarian Syndrome (PCOS), which is very poorly understood. I created the largest to-date genome-wide accosiation study (GWAS) of PCOS, discovering new causal genetic variants. A central question was how chronic inflammation effects development of PCOS, so I also curated GWASs for 138 inflammation markers. These GWASs will enable huge advancements in the genetic understanding of inflammation. I used them to study how chronic inflammation mediates the relationship between PCOS, obesity, and sex hormones, and this first-author paper is currently in submission.
 <br>
 <br>
-In my junior year I joined the Buenrostro lab, where I am currently working. I am fine-tuning protein language models, such as ESM2, on transcription factors --- proteins that bind to the genome and control nearby gene expression. The goals are two-fold: to understand how well current protein language models understand transcription factors and their disordered regions, and to fine-tune the protein language models / create new ones that have a better understanding. 
+In my junior year I joined the Buenrostro lab, where I am currently working. I am fine-tuning protein language models, such as ESM2, on transcription factors<code>&#8212;</code>proteins that bind to the genome and control nearby gene expression. The goals are two-fold: to understand how well current protein language models understand transcription factors and their disordered regions, and to fine-tune the protein language models / create new ones that have a better understanding. 
 <br>
 <br>
 <h4>Hobbies and Interests</h4>
+<br>
 
   </td>
   <td width="2%">
   </td>
-  <td width="38%" ><img src="/pic/puppy_photo.jpg" >
-  </td>
-  <td width="38%" ><img src="/pic/Goat_guitar.jpg" >
+  <td width="38%" ><img src="/pic/puppy_photo.jpg" ><img src="/pic/Goat_guitar.jpg" >
   </td>
   </tr>
 </table>
