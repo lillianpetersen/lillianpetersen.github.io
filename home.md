@@ -21,7 +21,7 @@ excerpt: "Lillian Kay Petersen"
   </td>
   <td width="60%">
 
-I'm a Harvard senior who uses machine learning to discover new biological insights. I take advances from the field of AI and apply them to molecular biology. I have a computational passion for NLP and biological passion for epigenetics, proteins, and gene regulation.
+I'm a Harvard senior who uses machine learning to discover new biological insights. I leverage recent advances from AI and apply them to molecular biology to answer fundamental questions, make tools, and assist the development of therapeutics. I have a passion for NLP, epigenetics, proteins, and gene regulation, and am always excited to learn new techniques.
 
 <br>
 <br>
