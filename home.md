@@ -1,7 +1,7 @@
 ---
 feature_text: |
-  ## <span style="color:white">Lillian Kay Petersen</span> 
-  <span style="color:white">lilliankay.petersen@gmail.com</span> 
+  ## <span style="color:white">Lillian Kay Petersen</span>
+  <span style="color:white">lillianpetersen@college.harvard.edu</span>
 feature_image: '/pic/sunrise.jpg' 
 excerpt: "Lillian Kay Petersen"
 ---
