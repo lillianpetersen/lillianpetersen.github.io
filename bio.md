@@ -15,8 +15,8 @@ excerpt: "Biography"
   <tr>
   <td width="60%">
 
-#### Summary
-
+<h3>Summary</h3>
+<br>
 Hello, thanks for visiting my website! Here is a bit about me and my story.
 
   </td>
