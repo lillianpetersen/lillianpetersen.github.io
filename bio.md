@@ -19,10 +19,10 @@ Hello, thanks for visiting my website! Here is a bit about me and my story.
 <br>
 <h4>Young me</h4>
 <br>
-I discovered my passion for science and programming in 7th grade. Our local ski hill, Pajarito, sometimes didn't get enough snow to open, and I wondered what might cause this. I learned that El Nino can effect winter weather, and decided to see if I could use El Nino to predict snowfall at my local ski hill. I taught myself Python and built a simple linear model to predict Pajarito snowfall based on the El Nino in August. It worked pretty well!
+I discovered my passion for science and programming in 7th grade. Our local ski hill, Pajarito, sometimes didn't get enough snow to open, and I wondered what might cause this. I learned that El Nino can effect winter weather, and decided to see if I could use El Nino to predict snowfall. I taught myself Python and built a simple linear model. It worked pretty well!
 <br>
 <br>
-In 8th grade, I expanded my skills to work with much larger datasets<code>&#8212;</code>I downloaded the daily weather data for every seather station in the world and calculated how the local climate has changed since 1950. This project taught me how important it is to connect science with broader impact, such as public awareness.
+In 8th grade, I expanded my skills to work with much larger datasets -- I downloaded the daily weather data for every seather station in the world and calculated how the local climate has changed since 1950. This project taught me how important it is to connect science with broader impact.
 <br>
 <br>
 <h4>High school overview</h4>
@@ -30,7 +30,7 @@ In 8th grade, I expanded my skills to work with much larger datasets<code>&#8212
 What does climate change have a huge impact on? Crop production. Now I determined the relationship between heat extremes and crop yields, and used these assumptions to predict crop production through 2100 in every US county, for 2 different emissions scenarios. I also learned valuable scientific writing skills and after much work published this work in the peer-reviewed journal MDPI Climate.
 <br>
 <br>
-But I wanted to expand my research to reach underresourced communities that don't have access to reliable monitoring of weather and crop health. So I turned to satellite imagery, which is available all over the world. I created an early warning system to predict crop yields in every country in Africa 3-4 months before the harvarst. To do this, I processed over 15 terabytes of data, requiring me to become comfortable sshing onto larger machines and writing code that can be run in parallel on multiple nodes. During this time I also discovered vim and have never gone back.
+I wanted to expand my research to reach underresourced communities that don't have access to reliable monitoring of weather and crop health. So I turned to satellite imagery and created an early warning system to predict crop yields in every country in Africa 3-4 months before the harvarst. I processed over 15 terabytes of data, which required me to become comfortable sshing onto larger machines and running code in parallel. I also discovered vim and have never gone back.
 <br>
 <br>
 For this work, I was invited to give seminars around the world, including at USAID, the USDA, the International Food Policy Research Institute (IFPRI), the Group on Earth Observations Global Agricultural Monitoring Initiative (GEOGLAM), and the Famine Early Warning Systems Network (FEWS Net). I was also an invited oral presenter at the Consortium of International Agricultural Research (CGAIR) Annual Meeting in both 2019 and 2020, and served as a panelist on their Data in a Crisis Climate special. I published this work in the peer-reviewed journal Remote Sensing, and for it I won many awards, including first palce at the Regeneron Science Talent Search in 2020.

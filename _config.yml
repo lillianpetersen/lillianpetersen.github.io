@@ -61,7 +61,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Lillian Petersen" # Site name or title, also used in jekyll-seo-tag
-logo: "/pic/dna_computer_thumbnail.jpg" # Site logo, also used in jekyll-seo-tag
+logo: "/pic/dna_computer_thumbnail.png" # Site logo, also used in jekyll-seo-tag
 description: "Personal Website"
 # Site description and default description, also used in jekyll-seo-tag
 url: "https://lillianpetersen.github.io" # Site url, also used in jekyll-seo-tag
@@ -69,7 +69,7 @@ baseurl: ""
 repo: "https://github.com/lillianpetersen/lillianpetersen.github.io"
 email: "lilliankay.petersen@gmail.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "/pic/dna_computer_thumbnail.jpg" # note: could put avatar on gravitar website.
+avatarurl: "/pic/dna_computer_thumbnail.png" # note: could put avatar on gravitar website.
 
 # 8. Site navigation
 navigation_header:
