@@ -13,7 +13,7 @@ excerpt: "Biography"
   </td>
   </tr>
   <tr>
-  <td width="60%">
+  <td width="70%">
 
 <h4>Summary</h4>
 Hello, thanks for visiting my website! Here is a bit about me and my story.
