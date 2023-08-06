@@ -61,7 +61,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Lillian Petersen" # Site name or title, also used in jekyll-seo-tag
-logo: "/pic/laptop.jpg" # Site logo, also used in jekyll-seo-tag
+logo: "/pic/dna_computer_thumbnail.jpg" # Site logo, also used in jekyll-seo-tag
 description: "Personal Website"
 # Site description and default description, also used in jekyll-seo-tag
 url: "https://lillianpetersen.github.io" # Site url, also used in jekyll-seo-tag
