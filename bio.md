@@ -15,7 +15,7 @@ geometry: margin=30mm
   <tr>
   <td width="65%">
 
-Hello, thanks for visiting my website! Here is a bit about me and my story.
+<small>Hello, thanks for visiting my website! Here is a bit about me and my story.</small>
 <br>
 <br>
 <h5>Young me</h5><small>
