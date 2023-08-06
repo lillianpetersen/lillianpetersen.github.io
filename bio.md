@@ -39,21 +39,21 @@ For this work, I was invited to give seminars around the world, including at USA
 <br></small> 
 <h5>College</h5><small>
 <br>
-I majored in applied math and molecular biology, using college to deepen my programming skills (eg systems programming and algorithms) and math skills (linear algebra, statistics and inference, multivariable calc), and chase my new passion for molecular biology. I discovered machine learning and became enthralled by it, taking mulitple classes focused on ML and doing side projects to deepen my skills.
+I majored in applied math and molecular biology, using college to deepen my programming skills (eg systems programming and algorithms) and math skills (linear algebra, statistics and inference, multivariable calc), and chase my new passion for molecular biology. I discovered machine learning and became enthralled by it, taking multiple classes focused on ML and doing side projects to deepen my skills.
 <br>
 <br>
-My freshman year I started a project in Dr. Liang's lab at the Harvard School of Public Health. I wanted to use genetics to make advancements in our understanding of complex diseases, and chose to study Polycystic Ovarian Syndrome (PCOS), which is very poorly understood. I created the largest to-date genome-wide accosiation study (GWAS) of PCOS, discovering new causal genetic variants. A central question was how chronic inflammation effects development of PCOS, so I also curated GWASs for 138 inflammation markers. These GWASs will enable huge advancements in the genetic understanding of inflammation. I used them to study how chronic inflammation mediates the relationship between PCOS, obesity, and sex hormones, and this first-author paper is currently in submission.
+My freshman and sophomore  years I worked in Dr. Liang's lab at the Harvard School of Public Health. I wanted to use genetics to make advancements in our understanding of complex diseases, and chose to study Polycystic Ovarian Syndrome (PCOS), which is very poorly understood. I created the largest to-date genome-wide association study (GWAS) of PCOS, discovering new causal genetic variants. To answer a central question on how chronic inflammation affects development of PCOS, I also curated GWASs for 138 inflammation markers. These GWASs will enable huge advancements in the genetic understanding of inflammation. I used them to study how chronic inflammation mediates the relationship between PCOS, obesity, and sex hormones, and this first-author paper is currently in submission.
 <br>
 <br>
-In my junior year I joined the Buenrostro lab, where I am currently working. I am fine-tuning protein language models, such as ESM2, on transcription factors -- proteins that bind to the genome and control nearby gene expression. The goals are two-fold: to understand how well current protein language models understand transcription factors and their disordered regions, and to fine-tune the protein language models / create new ones that have a better understanding. 
+In my junior year I joined the Buenrostro lab, where I am currently working. I am fine-tuning protein language models, such as ESM2, on transcription factors -- proteins that bind to the genome and control nearby gene expression. The goals are twofold: to understand how well current protein language models understand transcription factors and their disordered regions, and to fine-tune the protein language models / create new ones that have a better understanding.
 <br>
 <br></small> 
 <h5>Hobbies and Interests</h5><small>
 <br>
-I am an avid long-distance runner. I am currently president of the Harvard Running Club, and last spring I organized an official indoor track meet for 500 athletes from 25 running clubs in the Northeast.
+I am an avid long-distance runner and am currently president of the Harvard Running Club. In the spring of 2022, I organized an official indoor track meet for 500 athletes from 25 running clubs in the Northeast.
 <br>
 <br>
-I love travelling and recently discovered a love of history. On my runs and in my freetime I listen to history books on audible and appreciate gaining a better understanding of the world. I enjoy exploring new places, hiking, and camping.
+I love traveling and recently discovered a love of history. On my runs and in my freetime I listen to history books on audible and appreciate gaining a better understanding of the world. I enjoy exploring new places, hiking, and camping.
 <br>
 <br>
 I always love learning new skills, and have even dabbled in some instrument engineering, as shown in the picture of the Goat Guitar!
