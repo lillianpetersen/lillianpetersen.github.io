@@ -20,7 +20,7 @@ Lillian Petersen analyzes large data sets to answer relevant questions. She lear
   </td>
   <td width="2%">
   </td>
-  <td width="38%" ><img src="/pic/puppy_photo.png" >
+  <td width="38%" ><img src="/pic/puppy_photo.jpg" >
   </td>
   </tr>
 </table>
