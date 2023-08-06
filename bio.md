@@ -13,7 +13,7 @@ geometry: margin=30mm
   </td>
   </tr>
   <tr>
-  <td width="70%">
+  <td width="65%">
 
 Hello, thanks for visiting my website! Here is a bit about me and my story.
 <br>
@@ -53,7 +53,7 @@ In my junior year I joined the Buenrostro lab, where I am currently working. I a
   </td>
   <td width="2%">
   </td>
-  <td width="38%" ><img src="/pic/puppy_photo.jpg" ><img src="/pic/Goat_guitar.jpg" >
+  <td width="33%" ><img src="/pic/puppy_photo.jpg" ><img src="/pic/Goat_guitar.jpg" >
   </td>
   </tr>
 </table>
