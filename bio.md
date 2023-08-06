@@ -47,6 +47,8 @@ In my junior year I joined the Buenrostro lab, where I am currently working. I a
   </td>
   <td width="38%" ><img src="/pic/puppy_photo.jpg" >
   </td>
+  <td width="38%" ><img src="/pic/Goat_guitar.jpg" >
+  </td>
   </tr>
 </table>
 
