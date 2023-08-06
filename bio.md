@@ -51,6 +51,7 @@ In my junior year I joined the Buenrostro lab, where I am currently working. I a
   </td>
   </tr>
 </table>
+
 <p align="right">
 <a href="http://www.hitwebcounter.com">
 <img src="http://hitwebcounter.com/counter/counter.php?page=6931336&style=0006&nbdigits=5&type=ip&initCount=0" title="unique hits since April 2018" border="0" ></a>
