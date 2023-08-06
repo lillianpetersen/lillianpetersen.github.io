@@ -53,7 +53,10 @@ In my junior year I joined the Buenrostro lab, where I am currently working. I a
   </td>
   <td width="2%">
   </td>
-  <td width="33%" ><img src="/pic/puppy_photo.jpg" ><img src="/pic/Goat_guitar.jpg" >
+  <td width="33%" ><img src="/pic/puppy_photo.jpg" >
+  <img src="/pic/Goat_guitar.jpg" >
+  <img src="/pic/Grand_canyon_run.jpg" >
+  <img src="/pic/skiing.jpg" >
   </td>
   </tr>
 </table>
