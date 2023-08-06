@@ -1,5 +1,5 @@
 ---
-title: Real-Time Prediction of Crop Yields From MODIS Relative Vegetation Health\: A Continent-Wide Analysis of Africa
+title: "Real-Time Prediction of Crop Yields From MODIS Relative Vegetation Health: A Continent-Wide Analysis of Africa"
 feature_image: "/pic/forest_panorama.jpg"
 excerpt: "Predicting Food Shortages in Africa from Satellite Imagery"
 ---
