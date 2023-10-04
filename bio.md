@@ -79,6 +79,7 @@ I always love learning new skills, and have even dabbled in some instrument engi
   <td width="33%" ><img src="/pic/puppy_photo.jpg" >
   <img src="/pic/Goat_guitar.jpg" >
   <img src="/pic/Grand_canyon_run.jpg" >
+  <img src="/pic/lion_gates.jpg" >
   <img src="/pic/skiing.jpg" >
   <img src="/pic/post_half_marathon.jpg" >
   <img src="/pic/fountains_pic.jpg" >
@@ -87,7 +88,7 @@ I always love learning new skills, and have even dabbled in some instrument engi
   <img src="/pic/vienna.jpg" >
   <img src="/pic/snow_run.jpg" >
   <img src="/pic/alps_top.jpg" >
-  <img src="/pic/lion_gates.jpg" >
+  <img src="/pic/all_the_puppies.jpg" >
   </td>
   </tr>
 </table>
