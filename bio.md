@@ -59,7 +59,7 @@ So I decided to dive into the mechanisms of gene regulation and started working 
 Protein language models (PLMs) have recently made large advancements in understanding the structure and function of various proteins. These models work because amino acids must follow a grammar in order to create a viable protein, just like words must follow grammar to create a viable sentence. It is still a question, though, whether PLMs can understand TFs, since TFs are unique due to their large intrinsically disordered regions.
 <br>
 <br>
-I am currently fine-tuning protein language models, such as ESM2, on transcription factors to understand how well current protein language models understand transcription factors and their disordered regions, and to apply these models to help engineer better transcription factors.
+I am currently fine-tuning protein language models, such as ESM2, on transcription factors to understand how well current protein language models understand transcription factors and their disordered regions.
 <br>
 <br></small> 
 <h5>Hobbies and Interests</h5><small>
